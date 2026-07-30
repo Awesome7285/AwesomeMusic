@@ -93,7 +93,8 @@ class TouhouMusicWorld(World):
             "enabled_groups": self.options.enabled_groups.value,
             "enabled_albums": self.enabled_albums,
             "misc_prog": self.prog_items,
-            "goal_requirement": required_bounties(self.options, self)
+            "goal_requirement": required_bounties(self.options, self),
+            "version": f"v{self.world_version.as_simple_string()}"
         }
 
         return slot_data
