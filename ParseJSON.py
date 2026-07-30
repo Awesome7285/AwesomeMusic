@@ -25,7 +25,7 @@ for file in json_files:
     file_to_regions[file[3:-5]] = []
     data = json.loads(pkgutil.get_data(__name__, path.join(data_dir, file)).decode(encoding="utf-8"))
     _id = int(file[:2])*1000
-    for i, loc in enumerate(data):
+    for i, loc in enumerate(data, 1):
         # Region Check
         if loc["region"] not in regions_to_songs.keys():
             regions_to_songs[loc["region"]] = []
