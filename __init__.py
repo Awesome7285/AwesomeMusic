@@ -1,6 +1,6 @@
 from typing import List, Dict, Tuple
 from .Options import TouhouMusicOptions
-from .ParseJSON import location_name_to_id, item_name_to_id, file_to_regions, item_to_classification, single_filler_items, multi_filler_items, location_name_groups, item_name_groups
+from .ParseJSON import location_name_to_id, item_name_to_id, file_to_regions, item_to_classification, single_filler_items, multi_filler_items, location_name_groups, item_name_groups, file_to_index
 from .Regions import create_regions, TouhouMusicItem
 from .Rules import set_rules, fake_set_rules, required_bounties
 
@@ -90,7 +90,7 @@ class TouhouMusicWorld(World):
     def fill_slot_data(self):
         slot_data: Dict[str, object] = {
             "starting_album": self.starting_album,
-            "enabled_groups": self.options.enabled_groups.value,
+            "enabled_groups": {group: f"{i} {group}" for group, i in file_to_index.items() if group in self.options.enabled_groups.value},
             "enabled_albums": self.enabled_albums,
             "misc_prog": self.prog_items,
             "goal_requirement": required_bounties(self.options, self),

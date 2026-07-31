@@ -11,7 +11,7 @@ json_files = [i.name for i in list_dir.iterdir()]
 
 json_files.sort()
 index_to_file = {index: name[:-5] for index, name in [f.split(' ') for f in json_files]}
-file_to_index = {name: index for index, name in index_to_file}
+file_to_index = {name: index for index, name in index_to_file.items()}
 
 
 location_name_to_id = {}
