@@ -56,7 +56,7 @@ class TouhouMusicWorld(World):
         if not hasattr(self.multiworld, "generation_is_fake"):
             self.starting_album = self.multiworld.random.choice(sphere_1_albums)
             self.push_precollected(self.create_item(self.starting_album, ItemClassification.progression))
-            logger.info(self.starting_album)
+            logger.info(f"Starting Album for Player {self.player_name}: {self.starting_album}")
         item_pool += [self.create_item(item, ItemClassification.progression) for item in self.enabled_albums if item != self.starting_album]
 
         # Create Bounties equal to the number of enabled albums
