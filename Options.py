@@ -1,20 +1,15 @@
 from dataclasses import dataclass
 from Options import Option, Choice, DefaultOnToggle, Toggle, PerGameCommonOptions, OptionSet, Range
-from .ParseJSON import index_to_file, file_to_index, file_to_regions
+from .ParseJSON import index_to_file, file_to_index, file_to_regions, json_files
 
 class EnabledGroups(OptionSet):
-    """Determines which Groups/Categories can have albums chosen from.
     
-    Valid Options: 
-    "pc98", "mainline_games", "fighting_games", "spinoff_shmups", 
-    "zuns_music_collection", "print_works_cds", "seihou", "lenen"
-    "digital_wing", "digital_wing_ravers_nest", "digital_wing_dance_anthem", "halozy", 
-    "sound_refil", "k2e_cradle", "silver_forest", "amateras_records",
-    "star_revenge", "click_the_bart" 
-    print_works_cds on its own will not gen."""
     valid_keys = list(index_to_file.values())
     default = ["pc98", "mainline_games", "fighting_games", "spinoff_shmups", "zuns_music_collection", "print_works_cds"]
-    
+
+groups = [f"'{i[3:-5]}'" for i in json_files]
+EnabledGroups.__doc__ = 'Determines which Groups/Categories can have albums chosen from.\n\nValid Options:  \n' + "\n".join([", ".join(groups[i : i + 4]) for i in range(0, len(groups), 4)]) + '\nprint_works_cds on its own will not gen.'
+
 class ChooseAlbums(Choice):
     """Determines how the generator selects which albums to add.
     Everything: All albums for the chosen groups are enabled.
