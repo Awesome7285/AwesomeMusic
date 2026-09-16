@@ -19,19 +19,24 @@ class ChooseAlbums(Choice):
     default = 1
     
 class NumOfAlbums(Range):
-    """Determines the amount of random albums to pick total. Has no effect if ChooseAlbums is set to Everything."""
+    """Determines the amount of random albums to pick total. Has no effect if choose_albums is set to Everything."""
     range_start = 1
     range_end = 300
     default = 15
 
 class AlbumForces(OptionSet):
-    """Forces specific albums to be included in randomization. Has no effect if ChooseAlbums is set to Everything.
+    """Forces specific albums to be included in randomization. Has no effect if choose_albums is set to Everything.
     The generator will always pick these albums first, then fill random albums until num_albums is met.
     This means if the length of album_forces is greater than or equal to num_albums, the generator will only select these forced albums.
     To see the list of valid options, put something random here and the generator will list the valid options for the enabled groups upon erroring."""
-    valid_keys = [album for group in file_to_regions.values() for album in group]
+    #valid_keys = [album for group in file_to_regions.values() for album in group]
     default = []
 
+class AlbumVetos(OptionSet):
+    """Excludes specific albums to be included in randomization. Takes priority over album_forces. Will also remove albums even if choose_albums is set to Everything.
+    If a string is entered that is not a recognised album, the generator will give a warning and continue."""
+    # valid_keys = [album for group in file_to_regions.values() for album in group]
+    default = []
 
 class GoalRequirement(Range):
     """Percentage of Bounties required to goal.
@@ -53,5 +58,6 @@ class TouhouMusicOptions(PerGameCommonOptions):
     choose_albums: ChooseAlbums
     num_albums: NumOfAlbums
     album_forces: AlbumForces
+    album_vetos: AlbumVetos
     goal_requirement: GoalRequirement
     local_bounties: LocalBounties
