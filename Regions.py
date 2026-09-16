@@ -5,11 +5,11 @@ from rule_builder.rules import Has
 import logging
 logger = logging.getLogger()
 
-class TouhouMusicLocation(Location):
-    game: str = "Touhou Music"
+class AwesomeMusicLocation(Location):
+    game: str = "Awesome Music"
 
-class TouhouMusicItem(Item):
-    game: str = "Touhou Music"
+class AwesomeMusicItem(Item):
+    game: str = "Awesome Music"
 
 def create_regions(world: MultiWorld, options: PerGameCommonOptions, player: int, self):
 
@@ -60,7 +60,7 @@ def create_regions(world: MultiWorld, options: PerGameCommonOptions, player: int
 
         regions_locations = regions_to_songs[region_name]
         for loc in regions_locations:
-            region.locations.append(TouhouMusicLocation(player, loc, location_name_to_id[loc], region))
+            region.locations.append(AwesomeMusicLocation(player, loc, location_name_to_id[loc], region))
 
         # Add region with rule that it has the item of the same name
         menu.connect(region, rule=Has(region_name))

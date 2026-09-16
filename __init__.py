@@ -1,7 +1,7 @@
 from typing import List, Dict, Tuple
-from .Options import TouhouMusicOptions
+from .Options import AwesomeMusicOptions
 from .ParseJSON import location_name_to_id, item_name_to_id, file_to_regions, item_to_classification, single_filler_items, multi_filler_items, location_name_groups, item_name_groups, file_to_index
-from .Regions import create_regions, TouhouMusicItem
+from .Regions import create_regions, AwesomeMusicItem
 from .Rules import set_rules, fake_set_rules, required_bounties
 
 from BaseClasses import Item, ItemClassification, Tutorial
@@ -11,9 +11,9 @@ from ..AutoWorld import World, WebWorld
 import logging
 logger = logging.getLogger()
 
-class TouhouMusicWorld(World):
+class AwesomeMusicWorld(World):
 
-    game: str = "Touhou Music"
+    game: str = "Awesome Music"
 
     item_name_to_id = item_name_to_id
     location_name_to_id = location_name_to_id
@@ -21,7 +21,7 @@ class TouhouMusicWorld(World):
     location_name_groups = location_name_groups
     item_name_groups = item_name_groups
 
-    options_dataclass = TouhouMusicOptions
+    options_dataclass = AwesomeMusicOptions
 
     prog_items = {}
     enabled_albums = []
@@ -39,10 +39,10 @@ class TouhouMusicWorld(World):
     
     def create_item(self, name: str, classification = ItemClassification.filler) -> Item:
         #logger.info(name + ' ' + classification.name)
-        return TouhouMusicItem(name, classification, self.item_name_to_id[name], self.player)
+        return AwesomeMusicItem(name, classification, self.item_name_to_id[name], self.player)
 
     def create_items(self):
-        item_pool: List[TouhouMusicItem] = []
+        item_pool: List[AwesomeMusicItem] = []
 
         # Find enabled albums from enabled groups
         ordered_albums = [album for group in file_to_regions.values() for album in group]

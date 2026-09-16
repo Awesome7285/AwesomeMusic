@@ -1,6 +1,6 @@
 from BaseClasses import MultiWorld
 from Options import PerGameCommonOptions
-from rule_builder.rules import Has, CanReachRegion, CanReachLocation, HasAll, HasAllCounts, HasAny, HasAnyCount, True_, False_, Rule
+from rule_builder.rules import Has
 from ..AutoWorld import World
 from .ParseJSON import location_name_to_req, item_name_to_id
 from math import floor
@@ -111,28 +111,8 @@ def fake_set_rules(multiworld: MultiWorld, world: World, options: PerGameCommonO
             result, requirements = parse_requirement_string_to_postfix(reqs)
             state, prog_items = evaluate_postfix_requirements(result, requirements, loc, prog_items)
             world.set_rule(loc, state)
-            # prog_items |= used_items
-            # if " AND " in reqs:
-            #     item_list = reqs.split(" AND ")
-            #     item_list = [item_is_real(i) for i in item_list]
-            #     item_counts = {item: num for item, num in item_list}
-            #     world.set_rule(loc, HasAllCounts(item_counts=item_counts))
-            #     prog_items |= item_counts
-            # elif " OR " in reqs:
-            #     # OR assumes there isnt a multi count item
-            #     item_list = reqs.split(" OR ")
-            #     item_list = [item_is_real(i) for i in item_list]
-            #     item_counts = {item: num for item, num in item_list}
-            #     world.set_rule(loc, HasAnyCount(item_counts=item_counts))
-            #     prog_items |= item_counts
-            # else:
-            #     item = item_is_real(reqs)
-            #     world.set_rule(loc, Has(item[0], item[1]))
-            #     prog_items[item[0]] = item[1]
         else:
             if loc.parent_region.name not in sphere_1_albums:
                 sphere_1_albums.append(loc.parent_region.name)
 
-    # logger.info(prog_items)
-    # print(prog_items)
     return prog_items, sphere_1_albums

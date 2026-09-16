@@ -53,7 +53,7 @@ class LocalBounties(Choice):
     default = 0
 
 @dataclass
-class TouhouMusicOptions(PerGameCommonOptions):
+class AwesomeMusicOptions(PerGameCommonOptions):
     enabled_groups: EnabledGroups
     choose_albums: ChooseAlbums
     num_albums: NumOfAlbums
