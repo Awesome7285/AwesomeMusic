@@ -66,6 +66,8 @@
     { "name": "Bombs (5)", "count": 1, "filler": true, "category": ["Stupid Filler"] },
     { "name": "Thrive", "count": 1, "filler": true, "category": ["Stupid Filler"] },
     { "name": "Puzzle Skip", "count": 1, "useful": true, "category": ["Stupid Filler"] },
+    { "name": "ball", "count": 1, "filler": true, "category": ["Stupid Filler"] },
+    { "name": "10 Buttons", "count": 1, "filler": true, "category": ["Stupid Filler"] },
 
     { "name": "Bad Apple Trap", "count": 3, "trap": true, "category": ["Traps"] },
     { "name": "SiIvagunner Trap", "count": 5, "trap": true, "category": ["Traps"] },

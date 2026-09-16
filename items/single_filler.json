@@ -327,7 +327,6 @@
   { "name": "Paypal me $30,000 USD", "count": 1, "useful": true, "category": ["Stupid Filler"] },
   { "name": "bad.ogg", "count": 1, "trap": true, "category": ["Stupid Filler"] },
   { "name": "THISSUCKSDICK.adx", "count": 1, "trap": true, "category": ["Stupid Filler"] },
-  { "name": "Family ride home from the biggest async ever created 3", "count": 1, "trap": true, "category": ["Stupid Filler"] },
   { "name": "A Dish with Diamonds on it", "count": 1, "filler": true, "category": ["Stupid Filler"] },
   { "name": "Cane of Go Mode", "count": 1, "useful": true, "category": ["Stupid Filler"] },
   { "name": "Based Jump", "count": 1, "useful": true, "category": ["Stupid Filler"] },
@@ -370,7 +369,7 @@
   { "name": "Classic", "count": 1, "filler": true, "category": ["Stupid Filler"] },
   { "name": "BUILD THE HELICOPTER AND OFF TO THE RESCUE", "count": 1, "filler": true, "category": ["Stupid Filler"] },
   { "name": "Guzzlord", "count": 1, "filler": true, "category": ["Stupid Filler"] },
-  { "name": "6 7", "count": 1, "filler": true, "category": ["Stupid Filler"] },
+  { "name": "6 7", "count": 1, "trap": true, "category": ["Stupid Filler"] },
   { "name": "EIGHT NINE", "count": 1, "filler": true, "category": ["Stupid Filler"] },
   { "name": "Would you?", "count": 1, "filler": true, "category": ["Stupid Filler"] },
   { "name": "Ztar", "count": 1, "filler": true, "category": ["Stupid Filler"] },
@@ -401,5 +400,11 @@
   { "name": "Progressive Hookshot", "count": 1, "useful": true, "category": ["Stupid Filler"] },
   { "name": "it makes me wanna put stuff in my mouth", "count": 1, "useful": true, "category": ["Stupid Filler"] },
   { "name": "Grinch Mushroom", "count": 1, "filler": true, "category": ["Stupid Filler"] },
+  { "name": "Azure Temple Zone", "count": 1, "filler": true, "category": ["Stupid Filler"] },
+  { "name": "SegaNet Account", "count": 1, "filler": true, "category": ["Stupid Filler"] },
+  { "name": "Cruel Synesthesia", "count": 1, "filler": true, "category": ["Stupid Filler"] },
+  { "name": "TM69", "count": 1, "filler": true, "category": ["Stupid Filler"] },
+  { "name": "Millionaire Lunch", "count": 1, "filler": true, "category": ["Stupid Filler"] },
+  { "name": "Evril Lebaron", "count": 1, "filler": true, "category": ["Stupid Filler"] },
   { "name": "Freddy Fazbear", "count": 1, "filler": true, "category": ["Stupid Filler"] }
 ]
