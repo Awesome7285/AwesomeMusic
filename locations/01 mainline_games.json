@@ -233,7 +233,7 @@
         "url": "https://jetta.vgmtreasurechest.com/soundtracks/touhou-youyoumu-perfect-cherry-blossom/xlmdhzag/06.%20The%20Doll%20Maker%20of%20Bucuresti.mp3"
     },
     {
-        "name": "PCB: Doll Judgement ~ The Girl Who Played with People's Shapes ",
+        "name": "PCB: Doll Judgement ~ The Girl Who Played with People's Shapes",
         "requires": "|Alice Margatroid|",
         "category": [
             "07 - Perfect Cherry Blossom"
@@ -1811,7 +1811,7 @@
         "url": "https://vgmtreasurechest.com/soundtracks/touhou-15-legacy-of-lunatic-kingdom-full-original-soundtrack/dxfhvhwm/02.%20Unforgettable%2C%20the%20Nostalgic%20Greenery.mp3"
     },
     {
-        "name": "LoLK: The Rabbit Has Landed ",
+        "name": "LoLK: The Rabbit Has Landed",
         "requires": "|Seiran|",
         "category": [
             "15 - Legacy of Lunatic Kingdom"

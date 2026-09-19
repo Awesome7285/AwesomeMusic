@@ -11,7 +11,7 @@ json_files = [i.name for i in list_dir.iterdir()]
 
 json_files.sort()
 index_to_file = {index: name[:-5] for index, name in [f.split(' ') for f in json_files]}
-file_to_index = {name: index for index, name in index_to_file}
+file_to_index = {name: index for index, name in index_to_file.items()}
 
 
 location_name_to_id = {}
@@ -25,7 +25,7 @@ for file in json_files:
     file_to_regions[file[3:-5]] = []
     data = json.loads(pkgutil.get_data(__name__, path.join(data_dir, file)).decode(encoding="utf-8"))
     _id = int(file[:2])*1000
-    for i, loc in enumerate(data):
+    for i, loc in enumerate(data, 1):
         # Region Check
         if loc["region"] not in regions_to_songs.keys():
             regions_to_songs[loc["region"]] = []

@@ -1,20 +1,15 @@
 from dataclasses import dataclass
 from Options import Option, Choice, DefaultOnToggle, Toggle, PerGameCommonOptions, OptionSet, Range
-from .ParseJSON import index_to_file, file_to_index, file_to_regions
+from .ParseJSON import index_to_file, file_to_index, file_to_regions, json_files
 
 class EnabledGroups(OptionSet):
-    """Determines which Groups/Categories can have albums chosen from.
     
-    Valid Options: 
-    "pc98", "mainline_games", "fighting_games", "spinoff_shmups", 
-    "zuns_music_collection", "print_works_cds", "seihou", "lenen"
-    "digital_wing", "digital_wing_ravers_nest", "digital_wing_dance_anthem", "halozy", 
-    "sound_refil", "k2e_cradle", "silver_forest", "amateras_records",
-    "star_revenge", "click_the_bart" 
-    print_works_cds on its own will not gen."""
     valid_keys = list(index_to_file.values())
     default = ["pc98", "mainline_games", "fighting_games", "spinoff_shmups", "zuns_music_collection", "print_works_cds"]
-    
+
+groups = [f"'{i[3:-5]}'" for i in json_files]
+EnabledGroups.__doc__ = 'Determines which Groups/Categories can have albums chosen from.\n\nValid Options:  \n' + "\n".join([", ".join(groups[i : i + 4]) for i in range(0, len(groups), 4)]) + '\nprint_works_cds on its own will not gen.'
+
 class ChooseAlbums(Choice):
     """Determines how the generator selects which albums to add.
     Everything: All albums for the chosen groups are enabled.
@@ -24,19 +19,24 @@ class ChooseAlbums(Choice):
     default = 1
     
 class NumOfAlbums(Range):
-    """Determines the amount of random albums to pick total. Has no effect if ChooseAlbums is set to Everything."""
+    """Determines the amount of random albums to pick total. Has no effect if choose_albums is set to Everything."""
     range_start = 1
     range_end = 300
     default = 15
 
 class AlbumForces(OptionSet):
-    """Forces specific albums to be included in randomization. Has no effect if ChooseAlbums is set to Everything.
+    """Forces specific albums to be included in randomization. Has no effect if choose_albums is set to Everything.
     The generator will always pick these albums first, then fill random albums until num_albums is met.
     This means if the length of album_forces is greater than or equal to num_albums, the generator will only select these forced albums.
     To see the list of valid options, put something random here and the generator will list the valid options for the enabled groups upon erroring."""
-    valid_keys = [album for group in file_to_regions.values() for album in group]
+    #valid_keys = [album for group in file_to_regions.values() for album in group]
     default = []
 
+class AlbumVetos(OptionSet):
+    """Excludes specific albums to be included in randomization. Takes priority over album_forces. Will also remove albums even if choose_albums is set to Everything.
+    If a string is entered that is not a recognised album, the generator will give a warning and continue."""
+    # valid_keys = [album for group in file_to_regions.values() for album in group]
+    default = []
 
 class GoalRequirement(Range):
     """Percentage of Bounties required to goal.
@@ -53,10 +53,11 @@ class LocalBounties(Choice):
     default = 0
 
 @dataclass
-class TouhouMusicOptions(PerGameCommonOptions):
+class AwesomeMusicOptions(PerGameCommonOptions):
     enabled_groups: EnabledGroups
     choose_albums: ChooseAlbums
     num_albums: NumOfAlbums
     album_forces: AlbumForces
+    album_vetos: AlbumVetos
     goal_requirement: GoalRequirement
     local_bounties: LocalBounties

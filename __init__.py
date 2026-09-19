@@ -1,7 +1,7 @@
 from typing import List, Dict, Tuple
-from .Options import TouhouMusicOptions
-from .ParseJSON import location_name_to_id, item_name_to_id, file_to_regions, item_to_classification, single_filler_items, multi_filler_items, location_name_groups, item_name_groups
-from .Regions import create_regions, TouhouMusicItem
+from .Options import AwesomeMusicOptions
+from .ParseJSON import location_name_to_id, item_name_to_id, file_to_regions, item_to_classification, single_filler_items, multi_filler_items, location_name_groups, item_name_groups, file_to_index
+from .Regions import create_regions, AwesomeMusicItem
 from .Rules import set_rules, fake_set_rules, required_bounties
 
 from BaseClasses import Item, ItemClassification, Tutorial
@@ -11,9 +11,9 @@ from ..AutoWorld import World, WebWorld
 import logging
 logger = logging.getLogger()
 
-class TouhouMusicWorld(World):
+class AwesomeMusicWorld(World):
 
-    game: str = "Touhou Music"
+    game: str = "Awesome Music"
 
     item_name_to_id = item_name_to_id
     location_name_to_id = location_name_to_id
@@ -21,7 +21,7 @@ class TouhouMusicWorld(World):
     location_name_groups = location_name_groups
     item_name_groups = item_name_groups
 
-    options_dataclass = TouhouMusicOptions
+    options_dataclass = AwesomeMusicOptions
 
     prog_items = {}
     enabled_albums = []
@@ -39,10 +39,10 @@ class TouhouMusicWorld(World):
     
     def create_item(self, name: str, classification = ItemClassification.filler) -> Item:
         #logger.info(name + ' ' + classification.name)
-        return TouhouMusicItem(name, classification, self.item_name_to_id[name], self.player)
+        return AwesomeMusicItem(name, classification, self.item_name_to_id[name], self.player)
 
     def create_items(self):
-        item_pool: List[TouhouMusicItem] = []
+        item_pool: List[AwesomeMusicItem] = []
 
         # Find enabled albums from enabled groups
         ordered_albums = [album for group in file_to_regions.values() for album in group]
@@ -56,7 +56,7 @@ class TouhouMusicWorld(World):
         if not hasattr(self.multiworld, "generation_is_fake"):
             self.starting_album = self.multiworld.random.choice(sphere_1_albums)
             self.push_precollected(self.create_item(self.starting_album, ItemClassification.progression))
-            logger.info(self.starting_album)
+            logger.info(f"Starting Album for Player {self.player_name}: {self.starting_album}")
         item_pool += [self.create_item(item, ItemClassification.progression) for item in self.enabled_albums if item != self.starting_album]
 
         # Create Bounties equal to the number of enabled albums
@@ -90,10 +90,11 @@ class TouhouMusicWorld(World):
     def fill_slot_data(self):
         slot_data: Dict[str, object] = {
             "starting_album": self.starting_album,
-            "enabled_groups": self.options.enabled_groups.value,
+            "enabled_groups": {group: f"{i} {group}" for group, i in file_to_index.items() if group in self.options.enabled_groups.value},
             "enabled_albums": self.enabled_albums,
             "misc_prog": self.prog_items,
-            "goal_requirement": required_bounties(self.options, self)
+            "goal_requirement": required_bounties(self.options, self),
+            "version": f"v{self.world_version.as_simple_string()}"
         }
 
         return slot_data

@@ -2,12 +2,14 @@ from BaseClasses import MultiWorld, Region, Location, Item
 from Options import PerGameCommonOptions, OptionError
 from .ParseJSON import location_name_to_id, file_to_regions, regions_to_songs
 from rule_builder.rules import Has
+import logging
+logger = logging.getLogger()
 
-class TouhouMusicLocation(Location):
-    game: str = "Touhou Music"
+class AwesomeMusicLocation(Location):
+    game: str = "Awesome Music"
 
-class TouhouMusicItem(Item):
-    game: str = "Touhou Music"
+class AwesomeMusicItem(Item):
+    game: str = "Awesome Music"
 
 def create_regions(world: MultiWorld, options: PerGameCommonOptions, player: int, self):
 
@@ -20,6 +22,13 @@ def create_regions(world: MultiWorld, options: PerGameCommonOptions, player: int
     enabled_albums = []
     for group in enabled_groups:
         enabled_albums.extend(file_to_regions[group])
+
+    # Album Vetos (Always Applies)
+    for album in options.album_vetos.value:
+        if album in enabled_albums:
+            enabled_albums.remove(album)
+        else:
+            logger.info(f"Warning: Album {album} in AlbumVetos is not in EnabledGroups or not recognised for Player {world.player_name[player]}. It may have a typo.")
     
     # Adjust Enabled Albums based on settings
     filtered_albums = []
@@ -30,7 +39,7 @@ def create_regions(world: MultiWorld, options: PerGameCommonOptions, player: int
                 filtered_albums.append(album)
                 enabled_albums.remove(album)
             else:
-                raise OptionError(f"Album {album} in AlbumForces is not in EnabledGroups for Player {world.player_name[player]}")
+                raise OptionError(f"Album '{album}' in AlbumForces is not in EnabledGroups or not recognised for Player {world.player_name[player]}.\nPossible album keys for the currently enabled groups are (excluding vetos):\n{enabled_albums}")
         
         # Fill Albums with random until the number is met
         world.random.shuffle(enabled_albums)
@@ -51,7 +60,7 @@ def create_regions(world: MultiWorld, options: PerGameCommonOptions, player: int
 
         regions_locations = regions_to_songs[region_name]
         for loc in regions_locations:
-            region.locations.append(TouhouMusicLocation(player, loc, location_name_to_id[loc], region))
+            region.locations.append(AwesomeMusicLocation(player, loc, location_name_to_id[loc], region))
 
         # Add region with rule that it has the item of the same name
         menu.connect(region, rule=Has(region_name))
