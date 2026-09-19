@@ -1,0 +1,497 @@
+[
+    {
+        "requires": "",
+        "name": "DLW: The Fantastic Logic of the Lost Season",
+        "region": "Touhou Jitsuzaisou ~ Dream Logical World",
+        "category": [
+            "Tracks by Analogue Reverie",
+            "Touhou Jitsuzaisou ~ Dream Logical World"
+        ],
+        "url": "https://lambda.vgmtreasurechest.com/soundtracks/touhou-jitsuzaisou-dream-logical-world-windows-gamerip-2022/uvupqfkyjl/1-01.%20Title.mp3",
+        "original_name": "迷った季節の奇想天外な論理"
+    },
+	{
+        "requires": "",
+        "name": "DLW: Awakening of the Dream-logical World",
+        "region": "Touhou Jitsuzaisou ~ Dream Logical World",
+        "category": [
+            "Tracks by Analogue Reverie",
+            "Touhou Jitsuzaisou ~ Dream Logical World"
+        ],
+        "url": "https://lambda.vgmtreasurechest.com/soundtracks/touhou-jitsuzaisou-dream-logical-world-windows-gamerip-2022/fuqublxbah/1-03.%20Stage1.mp3",
+        "original_name": "夢論理世界の醒覚"
+    },
+	{
+        "requires": "|Aspect Shift|",
+        "name": "DLW: Awakening of the Dream-logical World (Phone Version)",
+        "region": "Touhou Jitsuzaisou ~ Dream Logical World",
+        "category": [
+            "Tracks by Analogue Reverie",
+            "Touhou Jitsuzaisou ~ Dream Logical World"
+        ],
+        "url": "https://lambda.vgmtreasurechest.com/soundtracks/touhou-jitsuzaisou-dream-logical-world-windows-gamerip-2022/dpclagxrkg/1-04.%20Stage1phone.mp3",
+        "original_name": "夢論理世界の醒覚 (電話バージョン)"
+    },
+	{
+        "requires": "|Nunokae Yukimura|",
+        "name": "DLW: Discernment ~ Trial of the Pure Heart",
+        "region": "Touhou Jitsuzaisou ~ Dream Logical World",
+        "category": [
+            "Tracks by Analogue Reverie",
+            "Touhou Jitsuzaisou ~ Dream Logical World"
+        ],
+        "url": "https://lambda.vgmtreasurechest.com/soundtracks/touhou-jitsuzaisou-dream-logical-world-windows-gamerip-2022/rtgljiycoq/1-05.%20Stage1boss.mp3",
+        "original_name": "Discernment ～ 試される純心"
+    },
+	{
+        "requires": "|Nunokae Yukimura| AND |Aspect Shift|",
+        "name": "DLW: Discernment ~ Trial of the Pure Heart (Phone Version)",
+        "region": "Touhou Jitsuzaisou ~ Dream Logical World",
+        "category": [
+            "Tracks by Analogue Reverie",
+            "Touhou Jitsuzaisou ~ Dream Logical World"
+        ],
+        "url": "https://lambda.vgmtreasurechest.com/soundtracks/touhou-jitsuzaisou-dream-logical-world-windows-gamerip-2022/ryecnrzkrl/1-06.%20Stage1bossphone.mp3",
+        "original_name": "Discernment ～ 試される純心 (電話バージョン)"
+    },
+	{
+        "requires": "",
+        "name": "DLW: T.N.G. of Autumn",
+        "region": "Touhou Jitsuzaisou ~ Dream Logical World",
+        "category": [
+            "Tracks by Analogue Reverie",
+            "Touhou Jitsuzaisou ~ Dream Logical World"
+        ],
+        "url": "https://lambda.vgmtreasurechest.com/soundtracks/touhou-jitsuzaisou-dream-logical-world-windows-gamerip-2022/pmiwldblrq/1-07.%20T.N.G.%20Of%20Autumn.mp3",
+        "original_name": "晩秋のT．N．G．"
+    },
+	{
+        "requires": "|Aspect Shift|",
+        "name": "DLW: T.N.G. of Autumn (Phone Version)",
+        "region": "Touhou Jitsuzaisou ~ Dream Logical World",
+        "category": [
+            "Tracks by Analogue Reverie",
+            "Touhou Jitsuzaisou ~ Dream Logical World"
+        ],
+        "url": "https://lambda.vgmtreasurechest.com/soundtracks/touhou-jitsuzaisou-dream-logical-world-windows-gamerip-2022/ditdxjelyy/1-08.%20T.N.G.%20Of%20Autumn.mp3",
+        "original_name": "晩秋のT．N．G． (電話バージョン)"
+    },
+	{
+        "requires": "|Tetsuko Yorubana|",
+        "name": "DLW: Erica Arborea in the Breeze",
+        "region": "Touhou Jitsuzaisou ~ Dream Logical World",
+        "category": [
+            "Tracks by Analogue Reverie",
+            "Touhou Jitsuzaisou ~ Dream Logical World"
+        ],
+        "url": "https://lambda.vgmtreasurechest.com/soundtracks/touhou-jitsuzaisou-dream-logical-world-windows-gamerip-2022/eslmkwkrax/1-09.%20Stage2boss.mp3",
+        "original_name": "そよ風に吹かれる栄樹"
+    },
+	{
+        "requires": "|Tetsuko Yorubana| AND |Aspect Shift|",
+        "name": "DLW: Erica Arborea in the Breeze (Phone Version)",
+        "region": "Touhou Jitsuzaisou ~ Dream Logical World",
+        "category": [
+            "Tracks by Analogue Reverie",
+            "Touhou Jitsuzaisou ~ Dream Logical World"
+        ],
+        "url": "https://lambda.vgmtreasurechest.com/soundtracks/touhou-jitsuzaisou-dream-logical-world-windows-gamerip-2022/vwfjoyvwcd/1-10.%20Stage2bossphone.mp3",
+        "original_name": "そよ風に吹かれる栄樹 (電話バージョン)"
+    },
+	{
+        "requires": "",
+        "name": "DLW: Delineated Existence ~ Material Fear",
+        "region": "Touhou Jitsuzaisou ~ Dream Logical World",
+        "category": [
+            "Tracks by Analogue Reverie",
+            "Touhou Jitsuzaisou ~ Dream Logical World"
+        ],
+        "url": "https://lambda.vgmtreasurechest.com/soundtracks/touhou-jitsuzaisou-dream-logical-world-windows-gamerip-2022/tlzyntkmpx/1-11.%20Stage3.mp3",
+        "original_name": "画定された存在 ～ Material Fear"
+    },
+	{
+        "requires": "|Aspect Shift|",
+        "name": "DLW: Delineated Existence ~ Material Fear (Phone Version)",
+        "region": "Touhou Jitsuzaisou ~ Dream Logical World",
+        "category": [
+            "Tracks by Analogue Reverie",
+            "Touhou Jitsuzaisou ~ Dream Logical World"
+        ],
+        "url": "https://lambda.vgmtreasurechest.com/soundtracks/touhou-jitsuzaisou-dream-logical-world-windows-gamerip-2022/elejtdgrxd/1-12.%20Stage3phone.mp3",
+        "original_name": "画定された存在 ～ Material Fear (電話バージョン)"
+    },
+	{
+        "requires": "|Acytota|",
+        "name": "DLW: Undead Malevolence",
+        "region": "Touhou Jitsuzaisou ~ Dream Logical World",
+        "category": [
+            "Tracks by Analogue Reverie",
+            "Touhou Jitsuzaisou ~ Dream Logical World"
+        ],
+        "url": "https://lambda.vgmtreasurechest.com/soundtracks/touhou-jitsuzaisou-dream-logical-world-windows-gamerip-2022/tjxiurmsmp/1-13.%20Dead%20Malevolence.mp3",
+        "original_name": "アンデッド・マレヴォレンス"
+    },
+	{
+        "requires": "|Acytota| AND |Aspect Shift|",
+        "name": "DLW: Undead Malevolence (Phone Version)",
+        "region": "Touhou Jitsuzaisou ~ Dream Logical World",
+        "category": [
+            "Tracks by Analogue Reverie",
+            "Touhou Jitsuzaisou ~ Dream Logical World"
+        ],
+        "url": "https://lambda.vgmtreasurechest.com/soundtracks/touhou-jitsuzaisou-dream-logical-world-windows-gamerip-2022/zmkzglnmqx/1-14.%20Dead%20Malevolence.mp3",
+        "original_name": "アンデッド・マレヴォレンス (電話バージョン)"
+    },
+	{
+        "requires": "",
+        "name": "DLW: Oneiric Fallacy",
+        "region": "Touhou Jitsuzaisou ~ Dream Logical World",
+        "category": [
+            "Tracks by Analogue Reverie",
+            "Touhou Jitsuzaisou ~ Dream Logical World"
+        ],
+        "url": "https://lambda.vgmtreasurechest.com/soundtracks/touhou-jitsuzaisou-dream-logical-world-windows-gamerip-2022/xblatjzamt/1-16.%20Stage4.mp3",
+        "original_name": "夢想的誤謬"
+    },
+	{
+        "requires": "|Aspect Shift|",
+        "name": "DLW: Oneiric Fallacy (Phone Version)",
+        "region": "Touhou Jitsuzaisou ~ Dream Logical World",
+        "category": [
+            "Tracks by Analogue Reverie",
+            "Touhou Jitsuzaisou ~ Dream Logical World"
+        ],
+        "url": "https://lambda.vgmtreasurechest.com/soundtracks/touhou-jitsuzaisou-dream-logical-world-windows-gamerip-2022/kiqufeoalf/1-17.%20Stage4phone.mp3",
+        "original_name": "夢想的誤謬 (電話バージョン)"
+    },
+	{
+        "requires": "|Reimu Hakurei| AND |Kasen Ibaraki|",
+        "name": "DLW: Eternal Flower Threshold",
+        "region": "Touhou Jitsuzaisou ~ Dream Logical World",
+        "category": [
+            "Tracks by Analogue Reverie",
+            "Touhou Jitsuzaisou ~ Dream Logical World"
+        ],
+        "url": "https://lambda.vgmtreasurechest.com/soundtracks/touhou-jitsuzaisou-dream-logical-world-windows-gamerip-2022/znifvlqelb/1-18.%20Stage4aboss.mp3",
+        "original_name": "永遠の華狭間"
+    },
+	{
+        "requires": "|Reimu Hakurei| AND |Kasen Ibaraki| AND |Aspect Shift|",
+        "name": "DLW: Eternal Flower Threshold (Phone Version)",
+        "region": "Touhou Jitsuzaisou ~ Dream Logical World",
+        "category": [
+            "Tracks by Analogue Reverie",
+            "Touhou Jitsuzaisou ~ Dream Logical World"
+        ],
+        "url": "https://lambda.vgmtreasurechest.com/soundtracks/touhou-jitsuzaisou-dream-logical-world-windows-gamerip-2022/kmjapdruwh/1-19.%20Stage4abossphone.mp3",
+        "original_name": "永遠の華狭間 (電話バージョン)"
+    },
+	{
+        "requires": "|Marisa Kirisame| AND |Yuuka Kazami|",
+        "name": "DLW: Faint Dream ~ Dimensional Dream",
+        "region": "Touhou Jitsuzaisou ~ Dream Logical World",
+        "category": [
+            "Tracks by Analogue Reverie",
+            "Touhou Jitsuzaisou ~ Dream Logical World"
+        ],
+        "url": "https://lambda.vgmtreasurechest.com/soundtracks/touhou-jitsuzaisou-dream-logical-world-windows-gamerip-2022/nsnchusfur/1-20.%20Stage4bboss.mp3",
+        "original_name": "幽夢 〜 Dimensional Dream"
+    },
+	{
+        "requires": "|Marisa Kirisame| AND |Yuuka Kazami| AND |Aspect Shift|",
+        "name": "DLW: Faint Dream ~ Dimensional Dream (Phone Version)",
+        "region": "Touhou Jitsuzaisou ~ Dream Logical World",
+        "category": [
+            "Tracks by Analogue Reverie",
+            "Touhou Jitsuzaisou ~ Dream Logical World"
+        ],
+        "url": "https://lambda.vgmtreasurechest.com/soundtracks/touhou-jitsuzaisou-dream-logical-world-windows-gamerip-2022/tnkicjskbj/1-21.%20Stage4bbossphone.mp3",
+        "original_name": "幽夢 〜 Dimensional Dream (電話バージョン)"
+    },
+	{
+        "requires": "|Sakuya Izayoi| AND |Reisen Udongein Inaba|",
+        "name": "DLW: Lunar Clock ~ Invisible Full Moon",
+        "region": "Touhou Jitsuzaisou ~ Dream Logical World",
+        "category": [
+            "Tracks by Analogue Reverie",
+            "Touhou Jitsuzaisou ~ Dream Logical World"
+        ],
+        "url": "https://lambda.vgmtreasurechest.com/soundtracks/touhou-jitsuzaisou-dream-logical-world-windows-gamerip-2022/kkhuvniruu/1-22.%20Stage4cboss.mp3",
+        "original_name": "月時計 〜 Invisible Full Moon"
+    },
+	{
+        "requires": "|Sakuya Izayoi| AND |Reisen Udongein Inaba| AND |Aspect Shift|",
+        "name": "DLW: Lunar Clock ~ Invisible Full Moon (Phone Version)",
+        "region": "Touhou Jitsuzaisou ~ Dream Logical World",
+        "category": [
+            "Tracks by Analogue Reverie",
+            "Touhou Jitsuzaisou ~ Dream Logical World"
+        ],
+        "url": "https://lambda.vgmtreasurechest.com/soundtracks/touhou-jitsuzaisou-dream-logical-world-windows-gamerip-2022/ghxpwvgbbj/1-23.%20Stage4cbossphone.mp3",
+        "original_name": "月時計 〜 Invisible Full Moon (電話バージョン)"
+    },
+	{
+        "requires": "|Sanae Kochiya| AND |Seija Kijin|",
+        "name": "DLW: Faith is for the Permanent People",
+        "region": "Touhou Jitsuzaisou ~ Dream Logical World",
+        "category": [
+            "Tracks by Analogue Reverie",
+            "Touhou Jitsuzaisou ~ Dream Logical World"
+        ],
+        "url": "https://lambda.vgmtreasurechest.com/soundtracks/touhou-jitsuzaisou-dream-logical-world-windows-gamerip-2022/vlxofunoom/1-24.%20Stage4dboss.mp3",
+        "original_name": "信仰は確かな人間の為に"
+    },
+	{
+        "requires": "|Sanae Kochiya| AND |Seija Kijin| AND |Aspect Shift|",
+        "name": "DLW: Faith is for the Permanent People (Phone Version)",
+        "region": "Touhou Jitsuzaisou ~ Dream Logical World",
+        "category": [
+            "Tracks by Analogue Reverie",
+            "Touhou Jitsuzaisou ~ Dream Logical World"
+        ],
+        "url": "https://lambda.vgmtreasurechest.com/soundtracks/touhou-jitsuzaisou-dream-logical-world-windows-gamerip-2022/qpvqofdhtc/1-25.%20Stage4dbossphone.mp3",
+        "original_name": "信仰は確かな人間の為に (電話バージョン)"
+    },
+	{
+        "requires": "|Koishi Komeiji| AND |Youmu Konpaku|",
+        "name": "DLW: Hartmann's Youkai Girl Shoots a Strange Bird",
+        "region": "Touhou Jitsuzaisou ~ Dream Logical World",
+        "category": [
+            "Tracks by Analogue Reverie",
+            "Touhou Jitsuzaisou ~ Dream Logical World"
+        ],
+        "url": "https://lambda.vgmtreasurechest.com/soundtracks/touhou-jitsuzaisou-dream-logical-world-windows-gamerip-2022/lytbpsvhjx/1-26.%20Stage4eboss.mp3",
+        "original_name": "ハルトマンの妖怪少女射怪鳥事"
+    },
+	{
+        "requires": "|Koishi Komeiji| AND |Youmu Konpaku| AND |Aspect Shift|",
+        "name": "DLW: Hartmann's Youkai Girl Shoots a Strange Bird (Phone Version)",
+        "region": "Touhou Jitsuzaisou ~ Dream Logical World",
+        "category": [
+            "Tracks by Analogue Reverie",
+            "Touhou Jitsuzaisou ~ Dream Logical World"
+        ],
+        "url": "https://lambda.vgmtreasurechest.com/soundtracks/touhou-jitsuzaisou-dream-logical-world-windows-gamerip-2022/gmkxqqhwuf/1-27.%20Stage4ebossphone.mp3",
+        "original_name": "ハルトマンの妖怪少女射怪鳥事 (電話バージョン)"
+    },
+	{
+        "requires": "|Aya Shameimaru| AND |Kosuzu Motoori|",
+        "name": "DLW: Girls with Deciphering Eyes",
+        "region": "Touhou Jitsuzaisou ~ Dream Logical World",
+        "category": [
+            "Tracks by Analogue Reverie",
+            "Touhou Jitsuzaisou ~ Dream Logical World"
+        ],
+        "url": "https://lambda.vgmtreasurechest.com/soundtracks/touhou-jitsuzaisou-dream-logical-world-windows-gamerip-2022/decdlbcyyz/1-28.%20Stage4fboss.mp3",
+        "original_name": "判読眼の少女達"
+    },
+	{
+        "requires": "|Aya Shameimaru| AND |Kosuzu Motoori| AND |Aspect Shift|",
+        "name": "DLW: Girls with Deciphering Eyes (Phone Version)",
+        "region": "Touhou Jitsuzaisou ~ Dream Logical World",
+        "category": [
+            "Tracks by Analogue Reverie",
+            "Touhou Jitsuzaisou ~ Dream Logical World"
+        ],
+        "url": "https://lambda.vgmtreasurechest.com/soundtracks/touhou-jitsuzaisou-dream-logical-world-windows-gamerip-2022/hwngicqyqh/1-29.%20Stage4fbossphone.mp3",
+        "original_name": "判読眼の少女達 (電話バージョン)"
+    },
+	{
+        "requires": "",
+        "name": "DLW: A Pruning Saw on the Tree of Aspects",
+        "region": "Touhou Jitsuzaisou ~ Dream Logical World",
+        "category": [
+            "Tracks by Analogue Reverie",
+            "Touhou Jitsuzaisou ~ Dream Logical World"
+        ],
+        "url": "https://lambda.vgmtreasurechest.com/soundtracks/touhou-jitsuzaisou-dream-logical-world-windows-gamerip-2022/ebhfabrfrx/1-30.%20Stage5.mp3",
+        "original_name": "相の樹の上の剪定ノコギリ"
+    },
+	{
+        "requires": "|Aspect Shift|",
+        "name": "DLW: A Pruning Saw on the Tree of Aspects (Phone Version)",
+        "region": "Touhou Jitsuzaisou ~ Dream Logical World",
+        "category": [
+            "Tracks by Analogue Reverie",
+            "Touhou Jitsuzaisou ~ Dream Logical World"
+        ],
+        "url": "https://lambda.vgmtreasurechest.com/soundtracks/touhou-jitsuzaisou-dream-logical-world-windows-gamerip-2022/vbnptpyxln/1-31.%20Stage5phone.mp3",
+        "original_name": "相の樹の上の剪定ノコギリ (電話バージョン)"
+    },
+	{
+        "requires": "|Kiseki Amashirasagi|",
+        "name": "DLW: Thoughts of the Aspects of Existence ~ Stream of Consciousness",
+        "region": "Touhou Jitsuzaisou ~ Dream Logical World",
+        "category": [
+            "Tracks by Analogue Reverie",
+            "Touhou Jitsuzaisou ~ Dream Logical World"
+        ],
+        "url": "https://lambda.vgmtreasurechest.com/soundtracks/touhou-jitsuzaisou-dream-logical-world-windows-gamerip-2022/vvsgvcgkpp/1-32.%20Stage5boss.mp3",
+        "original_name": "世界の実相の思想 〜 Stream of Consciousness"
+    },
+	{
+        "requires": "|Kiseki Amashirasagi| AND |Aspect Shift|",
+        "name": "DLW: Thoughts of the Aspects of Existence ~ Stream of Consciousness (Phone Version)",
+        "region": "Touhou Jitsuzaisou ~ Dream Logical World",
+        "category": [
+            "Tracks by Analogue Reverie",
+            "Touhou Jitsuzaisou ~ Dream Logical World"
+        ],
+        "url": "https://lambda.vgmtreasurechest.com/soundtracks/touhou-jitsuzaisou-dream-logical-world-windows-gamerip-2022/erfhdhsvxa/1-33.%20Stage5bossphone.mp3",
+        "original_name": "世界の実相の思想 〜 Stream of Consciousness (電話バージョン)"
+    },
+	{
+        "requires": "",
+        "name": "DLW: Pruning and Growing, Waiting and Hoping",
+        "region": "Touhou Jitsuzaisou ~ Dream Logical World",
+        "category": [
+            "Tracks by Analogue Reverie",
+            "Touhou Jitsuzaisou ~ Dream Logical World"
+        ],
+        "url": "https://lambda.vgmtreasurechest.com/soundtracks/touhou-jitsuzaisou-dream-logical-world-windows-gamerip-2022/dnbgvxshrb/1-34.%20Stage6.mp3",
+        "original_name": "整え育て、待ちて願う"
+    },
+	{
+        "requires": "|Aspect Shift|",
+        "name": "DLW: Pruning and Growing, Waiting and Hoping (Phone Version)",
+        "region": "Touhou Jitsuzaisou ~ Dream Logical World",
+        "category": [
+            "Tracks by Analogue Reverie",
+            "Touhou Jitsuzaisou ~ Dream Logical World"
+        ],
+        "url": "https://lambda.vgmtreasurechest.com/soundtracks/touhou-jitsuzaisou-dream-logical-world-windows-gamerip-2022/alptqtqkos/1-35.%20Stage6phone.mp3",
+        "original_name": "整え育て、待ちて願う (電話バージョン)"
+    },
+	{
+        "requires": "|Aimi Tourouzaka|",
+        "name": "DLW: Eastern Ascpects of Love and Beauty ~ Existential Humankind",
+        "region": "Touhou Jitsuzaisou ~ Dream Logical World",
+        "category": [
+            "Tracks by Analogue Reverie",
+            "Touhou Jitsuzaisou ~ Dream Logical World"
+        ],
+        "url": "https://lambda.vgmtreasurechest.com/soundtracks/touhou-jitsuzaisou-dream-logical-world-windows-gamerip-2022/sswdmolwhy/1-36.%20Stage6boss.mp3",
+        "original_name": "東方愛美相 〜 Existential Humankind"
+    },
+	{
+        "requires": "|Aimi Tourouzaka| AND |Aspect Shift|",
+        "name": "DLW: Eastern Ascpects of Love and Beauty ~ Existential Humankind (Phone Version)",
+        "region": "Touhou Jitsuzaisou ~ Dream Logical World",
+        "category": [
+            "Tracks by Analogue Reverie",
+            "Touhou Jitsuzaisou ~ Dream Logical World"
+        ],
+        "url": "https://lambda.vgmtreasurechest.com/soundtracks/touhou-jitsuzaisou-dream-logical-world-windows-gamerip-2022/tjaqcbzjpw/1-37.%20Stage6bossphone.mp3",
+        "original_name": "東方愛美相 〜 Existential Humankind (電話バージョン)"
+    },
+	{
+        "requires": "|Aimi Tourouzaka|",
+        "name": "DLW: Reclamation of Eastern Story",
+        "region": "Touhou Jitsuzaisou ~ Dream Logical World",
+        "category": [
+            "Tracks by Analogue Reverie",
+            "Touhou Jitsuzaisou ~ Dream Logical World"
+        ],
+        "url": "https://lambda.vgmtreasurechest.com/soundtracks/touhou-jitsuzaisou-dream-logical-world-windows-gamerip-2022/qrjmzzdmsv/1-38.%20Stage6bossfinal.mp3",
+        "original_name": "レクラメイション・オブ・イースタンストーリー"
+    },
+	{
+        "requires": "|DLW Ending|",
+        "name": "DLW: Waking Up from a Waking Dream",
+        "region": "Touhou Jitsuzaisou ~ Dream Logical World",
+        "category": [
+            "Tracks by Analogue Reverie",
+            "Touhou Jitsuzaisou ~ Dream Logical World"
+        ],
+        "url": "https://lambda.vgmtreasurechest.com/soundtracks/touhou-jitsuzaisou-dream-logical-world-windows-gamerip-2022/ybqatrpepn/1-39.%20Ending.mp3",
+        "original_name": "白中夢からの目覚め"
+    },
+	{
+        "requires": "|DLW Ending|",
+        "name": "DLW: The Nostalgic Ending of the Dream Season",
+        "region": "Touhou Jitsuzaisou ~ Dream Logical World",
+        "category": [
+            "Tracks by Analogue Reverie",
+            "Touhou Jitsuzaisou ~ Dream Logical World"
+        ],
+        "url": "https://lambda.vgmtreasurechest.com/soundtracks/touhou-jitsuzaisou-dream-logical-world-windows-gamerip-2022/owqyhudtnu/1-40.%20Credits.mp3",
+        "original_name": "夢見る季節の昔懐かしい終わり"
+    },
+	{
+        "requires": "|DLW Extra Stage Unlock|",
+        "name": "DLW: Accelerated Metaphysical Winter",
+        "region": "Touhou Jitsuzaisou ~ Dream Logical World",
+        "category": [
+            "Tracks by Analogue Reverie",
+            "Touhou Jitsuzaisou ~ Dream Logical World"
+        ],
+        "url": "https://lambda.vgmtreasurechest.com/soundtracks/touhou-jitsuzaisou-dream-logical-world-windows-gamerip-2022/xrmokudorz/1-41.%20Extrastage.mp3",
+        "original_name": "加速する形而上の冬"
+    },
+	{
+        "requires": "|DLW Extra Stage Unlock| AND |Aspect Shift|",
+        "name": "DLW: Accelerated Metaphysical Winter (Phone Version)",
+        "region": "Touhou Jitsuzaisou ~ Dream Logical World",
+        "category": [
+            "Tracks by Analogue Reverie",
+            "Touhou Jitsuzaisou ~ Dream Logical World"
+        ],
+        "url": "https://lambda.vgmtreasurechest.com/soundtracks/touhou-jitsuzaisou-dream-logical-world-windows-gamerip-2022/lzsvyzbfgx/1-42.%20Extrastagephone.mp3",
+        "original_name": "加速する形而上の冬 (電話バージョン)"
+    },
+	{
+        "requires": "|DLW Extra Stage Unlock| AND |Miyu Aokusa|",
+        "name": "DLW: Colorful Canvas of Love ~ Romantic Apricity",
+        "region": "Touhou Jitsuzaisou ~ Dream Logical World",
+        "category": [
+            "Tracks by Analogue Reverie",
+            "Touhou Jitsuzaisou ~ Dream Logical World"
+        ],
+        "url": "https://lambda.vgmtreasurechest.com/soundtracks/touhou-jitsuzaisou-dream-logical-world-windows-gamerip-2022/njhykonbuy/1-43.%20Extrastageboss.mp3",
+        "original_name": "彩り豊かな愛のキャンバス 〜 Romantic Apricity"
+    },
+	{
+        "requires": "|DLW Extra Stage Unlock| AND |Miyu Aokusa| AND |Aspect Shift|",
+        "name": "DLW: Colorful Canvas of Love ~ Romantic Apricity (Phone Version)",
+        "region": "Touhou Jitsuzaisou ~ Dream Logical World",
+        "category": [
+            "Tracks by Analogue Reverie",
+            "Touhou Jitsuzaisou ~ Dream Logical World"
+        ],
+        "url": "https://lambda.vgmtreasurechest.com/soundtracks/touhou-jitsuzaisou-dream-logical-world-windows-gamerip-2022/qhkmypfpww/1-44.%20Extrastagebossphone.mp3",
+        "original_name": "彩り豊かな愛のキャンバス 〜 Romantic Apricity (電話バージョン)"
+    },
+	{
+        "requires": "|Game Over|",
+        "name": "DLW: False Awakening",
+        "region": "Touhou Jitsuzaisou ~ Dream Logical World",
+        "category": [
+            "Tracks by Analogue Reverie",
+            "Touhou Jitsuzaisou ~ Dream Logical World"
+        ],
+        "url": "https://lambda.vgmtreasurechest.com/soundtracks/touhou-jitsuzaisou-dream-logical-world-windows-gamerip-2022/pbwwcwgkmu/1-45.%20Gameover.mp3",
+        "original_name": "擬似醒覚"
+    },
+	{
+        "requires": "|DLW Last Word Unlock|",
+        "name": "DLW: Euphoric Danmaku Festival",
+        "region": "Touhou Jitsuzaisou ~ Dream Logical World",
+        "category": [
+            "Tracks by Analogue Reverie",
+            "Touhou Jitsuzaisou ~ Dream Logical World"
+        ],
+        "url": "https://lambda.vgmtreasurechest.com/soundtracks/touhou-jitsuzaisou-dream-logical-world-windows-gamerip-2022/xjuxcwttfc/1-46.%20Lastword.mp3",
+        "original_name": "ユーフォリックダンマクフェスティバル"
+    },
+	{
+        "requires": "|DLW Last Word Unlock|",
+        "name": "DLW: Euphoric Danmaku Festival (MIDI Version)",
+        "region": "Touhou Jitsuzaisou ~ Dream Logical World",
+        "category": [
+            "Tracks by Analogue Reverie",
+            "Touhou Jitsuzaisou ~ Dream Logical World"
+        ],
+        "url": "https://lambda.vgmtreasurechest.com/soundtracks/touhou-jitsuzaisou-dream-logical-world-windows-gamerip-2022/ujdpnlwqlx/1-47.%20Lastwordmidi.mp3",
+        "original_name": "ユーフォリックダンマクフェスティバル  (MIDIバージョン)"
+    }
+]
