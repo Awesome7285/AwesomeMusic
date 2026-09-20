@@ -61,7 +61,7 @@ def parse_requirement_string_to_postfix(string: str) -> tuple[list[str], list[st
 
 def evaluate_postfix_requirements(postfix: list[str], requirements: list[str], location: str, prog_items: dict) -> bool:
     # print(postfix, requirements, location)
-    if not set(postfix).issubset(set("0123456789()|&")):
+    if not set(''.join(postfix)).issubset(set("0123456789|&")):
         raise ValueError(f"Requirements for location {location} have an item without pipes")
     stack = []
     for token in postfix:
