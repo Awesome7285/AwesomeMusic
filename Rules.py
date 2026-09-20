@@ -31,7 +31,6 @@ def parse_requirement_string_to_postfix(string: str) -> tuple[list[str], list[st
     string = re.sub(r" or ", "|", string, flags=re.IGNORECASE)
     string = string.replace("\n", "")
     string = string.replace(" ", "")
-    print(string, requirements)
     stack = []
     result = []
     skip = []
@@ -61,7 +60,9 @@ def parse_requirement_string_to_postfix(string: str) -> tuple[list[str], list[st
     return result, requirements
 
 def evaluate_postfix_requirements(postfix: list[str], requirements: list[str], location: str, prog_items: dict) -> bool:
-    print(postfix, requirements, location)
+    # print(postfix, requirements, location)
+    if not set(postfix).issubset(set("0123456789()|&")):
+        raise ValueError(f"Requirements for location {location} have an item without pipes")
     stack = []
     for token in postfix:
         if token == '&':
@@ -74,8 +75,6 @@ def evaluate_postfix_requirements(postfix: list[str], requirements: list[str], l
             stack.append(value1 | value2)
         else:
             item = requirements[int(token)]
-            if re.match(ITEM_REGEX, item) == None:
-                raise ValueError(f"Requirements for location {location} have an item without pipes")
             item, amount = item_is_real(item, location)
             if item in prog_items.keys():
                 prog_items[item] = max(amount, prog_items[item])
