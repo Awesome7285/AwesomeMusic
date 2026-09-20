@@ -1,0 +1,7 @@
+[
+    {"requires": "", "name": "12 bananas: How Many", "region": "12 bananas", "url": "https://jetta.vgmtreasurechest.com/soundtracks/12-bananas-gamerip-2020/dxdaskwg/01.%20How%20Many.mp3"},
+	{"requires": "|11 Bananas|", "name": "12 bananas: The Overture - Extended", "region": "12 bananas", "url": "https://jetta.vgmtreasurechest.com/soundtracks/12-bananas-gamerip-2020/nwwruwyd/02.%20The%20Overture%20-%20Extended.mp3"},
+	{"requires": "|11 Bananas|", "name": "12 bananas: The Overture", "region": "12 bananas", "url": "https://jetta.vgmtreasurechest.com/soundtracks/12-bananas-gamerip-2020/xctlarip/03.%20The%20Overture.mp3"},
+	{"requires": "|Luther|", "name": "12 bananas: TripleLutherBonus1", "region": "12 bananas", "url": "https://jetta.vgmtreasurechest.com/soundtracks/12-bananas-gamerip-2020/aghsrfcu/04.%20TripleLutherBonus1.mp3"},
+	{"requires": "|Luther|", "name": "12 bananas: Yes", "region": "12 bananas", "url": "https://jetta.vgmtreasurechest.com/soundtracks/12-bananas-gamerip-2020/proszrnp/05.%20Yes.mp3"}
+]

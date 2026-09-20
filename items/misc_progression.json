@@ -304,6 +304,7 @@
   { "name": "Mario", "count": 1, "progression": true, "category": ["Characters"] },
   { "name": "Bart Simpson", "count": 1, "progression": true, "category": ["Characters"] },
   { "name": "John Cena", "count": 1, "progression": true, "category": ["Characters"] },
+  { "name": "Luther", "count": 1, "progression": true, "category": ["Characters"] },
   
   { "name": "SoEW Extra Stage Unlock", "count": 1, "progression": true, "category": ["Extras and Endings"] },
   { "name": "LLS Extra Stage Unlock", "count": 1, "progression": true, "category": ["Extras and Endings"] },
@@ -438,6 +439,7 @@
   { "name": "Time", "count": 1, "progression": true, "category": ["Misc Progression"] },
   { "name": "Logical Practice", "count": 1, "progression": true, "category": ["Misc Progression"] },
   { "name": "Lap 2", "count": 1, "progression": true, "category": ["Misc Progression"] },
+  { "name": "11 Bananas", "count": 1, "progression": true, "category": ["Misc Progression"] },
   
   { "name": "Super Badge", "count": 1, "progression": true, "category": ["Misc Progression"] },
   { "name": "Ultra Badge", "count": 1, "progression": true, "category": ["Misc Progression"] },
