@@ -583,7 +583,7 @@
     },
     {
         "name": "IN: Eastern Youkai Beauty",
-        "requires": "|IN Last Word Unlock|",
+        "requires": "|Last Word Unlock|",
         "category": [
             "08 - Imperishable Night"
         ],

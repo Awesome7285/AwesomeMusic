@@ -473,7 +473,7 @@
         "original_name": "擬似醒覚"
     },
 	{
-        "requires": "|DLW Last Word Unlock|",
+        "requires": "|Last Word Unlock|",
         "name": "DLW: Euphoric Danmaku Festival",
         "region": "Touhou Jitsuzaisou ~ Dream Logical World",
         "category": [
@@ -484,7 +484,7 @@
         "original_name": "ユーフォリックダンマクフェスティバル"
     },
 	{
-        "requires": "|DLW Last Word Unlock|",
+        "requires": "|Last Word Unlock|",
         "name": "DLW: Euphoric Danmaku Festival (MIDI Version)",
         "region": "Touhou Jitsuzaisou ~ Dream Logical World",
         "category": [
