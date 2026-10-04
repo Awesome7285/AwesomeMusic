@@ -649,17 +649,6 @@
         "original_name": "押っ開かれた火蓋　〜 Slow Starter"
     },
     {
-        "requires": "|Mitsumo|",
-        "name": "BPoHC: Nightmare Syndrome",
-        "region": "Len'en Ten'eisenki ~ Brilliant Pagoda or Haze Castle",
-        "category": [
-            "Tracks by JynX",
-            "Len'en Ten'eisenki ~ Brilliant Pagoda or Haze Castle"
-        ],
-        "url": "https://lambda.vgmtreasurechest.com/soundtracks/len-en-ten-eisenk-brilliant-pagoda-or-haze-castle-windows-gamerip-2016/eicomvpl/03.%20Nightmare%20Syndrome.mp3",
-        "original_name": "ナイトメアシンドローム"
-    },
-    {
         "requires": "|Souko Shirami|",
         "name": "BPoHC: Scatter, O Flowers ~ Consumed with JEALOUSY!",
         "region": "Len'en Ten'eisenki ~ Brilliant Pagoda or Haze Castle",
@@ -669,6 +658,17 @@
         ],
         "url": "https://lambda.vgmtreasurechest.com/soundtracks/len-en-ten-eisenk-brilliant-pagoda-or-haze-castle-windows-gamerip-2016/nflptylk/04.%20Scatter%2C%20O%20Flowers%20~%20Consumed%20with%20JEALOUSY%21.mp3",
         "original_name": "花よ散れ　〜 Consumed with JEALOUSY!"
+    },
+    {
+        "requires": "|Mitsumo|",
+        "name": "BPoHC: Nightmare Syndrome",
+        "region": "Len'en Ten'eisenki ~ Brilliant Pagoda or Haze Castle",
+        "category": [
+            "Tracks by JynX",
+            "Len'en Ten'eisenki ~ Brilliant Pagoda or Haze Castle"
+        ],
+        "url": "https://lambda.vgmtreasurechest.com/soundtracks/len-en-ten-eisenk-brilliant-pagoda-or-haze-castle-windows-gamerip-2016/eicomvpl/03.%20Nightmare%20Syndrome.mp3",
+        "original_name": "ナイトメアシンドローム"
     },
     {
         "requires": "|Kurohebi|",
@@ -693,28 +693,6 @@
         "original_name": "韓紅に水は括る　〜DYE〜"
     },
     {
-        "requires": "|Progressive Brilliance:1|",
-        "name": "BPoHC: Advance Now on the Roads of Humans, the Roads of Youkai",
-        "region": "Len'en Ten'eisenki ~ Brilliant Pagoda or Haze Castle",
-        "category": [
-            "Tracks by JynX",
-            "Len'en Ten'eisenki ~ Brilliant Pagoda or Haze Castle"
-        ],
-        "url": "https://lambda.vgmtreasurechest.com/soundtracks/len-en-ten-eisenk-brilliant-pagoda-or-haze-castle-windows-gamerip-2016/kqyvfqow/07.%20Advance%20Now%20on%20the%20Roads%20of%20Humans%2C%20the%20Roads%20of%20Youkai.mp3",
-        "original_name": "いざ進まん人の道、妖の道"
-    },
-    {
-        "requires": "|Progressive Brilliance:1| AND |Medias Moritake|",
-        "name": "BPoHC: Emperor Road ~ So cute!",
-        "region": "Len'en Ten'eisenki ~ Brilliant Pagoda or Haze Castle",
-        "category": [
-            "Tracks by JynX",
-            "Len'en Ten'eisenki ~ Brilliant Pagoda or Haze Castle"
-        ],
-        "url": "https://lambda.vgmtreasurechest.com/soundtracks/len-en-ten-eisenk-brilliant-pagoda-or-haze-castle-windows-gamerip-2016/pkiirlep/08.%20Emperor%20Road%20~%20So%20cute%21.mp3",
-        "original_name": "エンペラーロード　〜 So cute!"
-    },
-    {
         "requires": "|Progressive Haze:1|",
         "name": "BPoHC: The Youkai Hang Their Heads in Malaise ~ Outbreak",
         "region": "Len'en Ten'eisenki ~ Brilliant Pagoda or Haze Castle",
@@ -735,6 +713,28 @@
         ],
         "url": "https://lambda.vgmtreasurechest.com/soundtracks/len-en-ten-eisenk-brilliant-pagoda-or-haze-castle-windows-gamerip-2016/pocrdqua/10.%20Slug%20Agent.mp3",
         "original_name": "スラグエージェント"
+    },
+    {
+        "requires": "|Progressive Brilliance:1|",
+        "name": "BPoHC: Advance Now on the Roads of Humans, the Roads of Youkai",
+        "region": "Len'en Ten'eisenki ~ Brilliant Pagoda or Haze Castle",
+        "category": [
+            "Tracks by JynX",
+            "Len'en Ten'eisenki ~ Brilliant Pagoda or Haze Castle"
+        ],
+        "url": "https://lambda.vgmtreasurechest.com/soundtracks/len-en-ten-eisenk-brilliant-pagoda-or-haze-castle-windows-gamerip-2016/kqyvfqow/07.%20Advance%20Now%20on%20the%20Roads%20of%20Humans%2C%20the%20Roads%20of%20Youkai.mp3",
+        "original_name": "いざ進まん人の道、妖の道"
+    },
+    {
+        "requires": "|Progressive Brilliance:1| AND |Medias Moritake|",
+        "name": "BPoHC: Emperor Road ~ So cute!",
+        "region": "Len'en Ten'eisenki ~ Brilliant Pagoda or Haze Castle",
+        "category": [
+            "Tracks by JynX",
+            "Len'en Ten'eisenki ~ Brilliant Pagoda or Haze Castle"
+        ],
+        "url": "https://lambda.vgmtreasurechest.com/soundtracks/len-en-ten-eisenk-brilliant-pagoda-or-haze-castle-windows-gamerip-2016/pkiirlep/08.%20Emperor%20Road%20~%20So%20cute%21.mp3",
+        "original_name": "エンペラーロード　〜 So cute!"
     },
     {
         "requires": "|Aoji Shitodo|",
@@ -770,28 +770,6 @@
         "original_name": "レッツエンド号　～ to run away!"
     },
     {
-        "requires": "|Progressive Brilliance:2|",
-        "name": "BPoHC: Today the Straits Are Merely Calm Once More",
-        "region": "Len'en Ten'eisenki ~ Brilliant Pagoda or Haze Castle",
-        "category": [
-            "Tracks by JynX",
-            "Len'en Ten'eisenki ~ Brilliant Pagoda or Haze Castle"
-        ],
-        "url": "https://lambda.vgmtreasurechest.com/soundtracks/len-en-ten-eisenk-brilliant-pagoda-or-haze-castle-windows-gamerip-2016/nsbchfeg/14.%20Today%20the%20Straits%20Are%20Merely%20Calm%20Once%20More.mp3",
-        "original_name": "海峡は今日もただ凪ぐ"
-    },
-    {
-        "requires": "|Progressive Brilliance:2| AND |Kunimitsu Ooya|",
-        "name": "BPoHC: Killing Superior ~ Giant killing",
-        "region": "Len'en Ten'eisenki ~ Brilliant Pagoda or Haze Castle",
-        "category": [
-            "Tracks by JynX",
-            "Len'en Ten'eisenki ~ Brilliant Pagoda or Haze Castle"
-        ],
-        "url": "https://lambda.vgmtreasurechest.com/soundtracks/len-en-ten-eisenk-brilliant-pagoda-or-haze-castle-windows-gamerip-2016/stsinrrj/15.%20Killing%20Superior%20~%20Giant%20killing.mp3",
-        "original_name": "キリングスペリオル　〜 Giant killing"
-    },
-    {
         "requires": "|Progressive Haze:2|",
         "name": "BPoHC: Resounding Illusory Sound of Military Boots",
         "region": "Len'en Ten'eisenki ~ Brilliant Pagoda or Haze Castle",
@@ -812,6 +790,28 @@
         ],
         "url": "https://lambda.vgmtreasurechest.com/soundtracks/len-en-ten-eisenk-brilliant-pagoda-or-haze-castle-windows-gamerip-2016/waosylnf/17.%20Eccentrically%20Drunken%20Dance%20~%20This%20drunkard%21.mp3",
         "original_name": "酔狂の舞　〜 This drunkard!"
+    },
+    {
+        "requires": "|Progressive Brilliance:2|",
+        "name": "BPoHC: Today the Straits Are Merely Calm Once More",
+        "region": "Len'en Ten'eisenki ~ Brilliant Pagoda or Haze Castle",
+        "category": [
+            "Tracks by JynX",
+            "Len'en Ten'eisenki ~ Brilliant Pagoda or Haze Castle"
+        ],
+        "url": "https://lambda.vgmtreasurechest.com/soundtracks/len-en-ten-eisenk-brilliant-pagoda-or-haze-castle-windows-gamerip-2016/nsbchfeg/14.%20Today%20the%20Straits%20Are%20Merely%20Calm%20Once%20More.mp3",
+        "original_name": "海峡は今日もただ凪ぐ"
+    },
+    {
+        "requires": "|Progressive Brilliance:2| AND |Kunimitsu Ooya|",
+        "name": "BPoHC: Killing Superior ~ Giant killing",
+        "region": "Len'en Ten'eisenki ~ Brilliant Pagoda or Haze Castle",
+        "category": [
+            "Tracks by JynX",
+            "Len'en Ten'eisenki ~ Brilliant Pagoda or Haze Castle"
+        ],
+        "url": "https://lambda.vgmtreasurechest.com/soundtracks/len-en-ten-eisenk-brilliant-pagoda-or-haze-castle-windows-gamerip-2016/stsinrrj/15.%20Killing%20Superior%20~%20Giant%20killing.mp3",
+        "original_name": "キリングスペリオル　〜 Giant killing"
     },
     {
         "requires": "|Lumen Celeritas|",
@@ -847,28 +847,6 @@
         "original_name": "幽霊うごく波と風　～ not steady body"
     },
     {
-        "requires": "|Progressive Brilliance:3|",
-        "name": "BPoHC: The Daydream Engulfed by Thick Fog",
-        "region": "Len'en Ten'eisenki ~ Brilliant Pagoda or Haze Castle",
-        "category": [
-            "Tracks by JynX",
-            "Len'en Ten'eisenki ~ Brilliant Pagoda or Haze Castle"
-        ],
-        "url": "https://lambda.vgmtreasurechest.com/soundtracks/len-en-ten-eisenk-brilliant-pagoda-or-haze-castle-windows-gamerip-2016/ghstprov/21.%20The%20Daydream%20Engulfed%20by%20Thick%20Fog.mp3",
-        "original_name": "濃霧呑む昼夢"
-    },
-    {
-        "requires": "|Progressive Brilliance:3| AND |Kaoru Kashiwagi|",
-        "name": "BPoHC: Fatal Brilliance ~ Toxic gem",
-        "region": "Len'en Ten'eisenki ~ Brilliant Pagoda or Haze Castle",
-        "category": [
-            "Tracks by JynX",
-            "Len'en Ten'eisenki ~ Brilliant Pagoda or Haze Castle"
-        ],
-        "url": "https://lambda.vgmtreasurechest.com/soundtracks/len-en-ten-eisenk-brilliant-pagoda-or-haze-castle-windows-gamerip-2016/jmfruvun/22.%20Fatal%20Brilliance%20~%20Toxic%20gem.mp3",
-        "original_name": "死に至る絢爛　～ Toxic gem"
-    },
-    {
         "requires": "|Progressive Haze:3|",
         "name": "BPoHC: The Sprouting Stone Wall, the Moving Castle",
         "region": "Len'en Ten'eisenki ~ Brilliant Pagoda or Haze Castle",
@@ -889,6 +867,28 @@
         ],
         "url": "https://lambda.vgmtreasurechest.com/soundtracks/len-en-ten-eisenk-brilliant-pagoda-or-haze-castle-windows-gamerip-2016/nuhdtktm/24.%20The%20Hero%20Arrives%21%21.mp3",
         "original_name": "ヒーロー見参！！"
+    },
+    {
+        "requires": "|Progressive Brilliance:3|",
+        "name": "BPoHC: The Daydream Engulfed by Thick Fog",
+        "region": "Len'en Ten'eisenki ~ Brilliant Pagoda or Haze Castle",
+        "category": [
+            "Tracks by JynX",
+            "Len'en Ten'eisenki ~ Brilliant Pagoda or Haze Castle"
+        ],
+        "url": "https://lambda.vgmtreasurechest.com/soundtracks/len-en-ten-eisenk-brilliant-pagoda-or-haze-castle-windows-gamerip-2016/ghstprov/21.%20The%20Daydream%20Engulfed%20by%20Thick%20Fog.mp3",
+        "original_name": "濃霧呑む昼夢"
+    },
+    {
+        "requires": "|Progressive Brilliance:3| AND |Kaoru Kashiwagi|",
+        "name": "BPoHC: Fatal Brilliance ~ Toxic gem",
+        "region": "Len'en Ten'eisenki ~ Brilliant Pagoda or Haze Castle",
+        "category": [
+            "Tracks by JynX",
+            "Len'en Ten'eisenki ~ Brilliant Pagoda or Haze Castle"
+        ],
+        "url": "https://lambda.vgmtreasurechest.com/soundtracks/len-en-ten-eisenk-brilliant-pagoda-or-haze-castle-windows-gamerip-2016/jmfruvun/22.%20Fatal%20Brilliance%20~%20Toxic%20gem.mp3",
+        "original_name": "死に至る絢爛　～ Toxic gem"
     },
     {
         "requires": "|Hooaka Shitodo|",
@@ -924,28 +924,6 @@
         "original_name": "開かれた瞳　～ Mono EYE"
     },
     {
-        "requires": "|Progressive Brilliance:4|",
-        "name": "BPoHC: The Utopia of Steel and Oil",
-        "region": "Len'en Ten'eisenki ~ Brilliant Pagoda or Haze Castle",
-        "category": [
-            "Tracks by JynX",
-            "Len'en Ten'eisenki ~ Brilliant Pagoda or Haze Castle"
-        ],
-        "url": "https://lambda.vgmtreasurechest.com/soundtracks/len-en-ten-eisenk-brilliant-pagoda-or-haze-castle-windows-gamerip-2016/nrtwamko/28.%20The%20Utopia%20of%20Steel%20and%20Oil.mp3",
-        "original_name": "鉄と油の理想郷"
-    },
-    {
-        "requires": "|Progressive Brilliance:4| AND |Fujiwara no Shirogane no Sanra|",
-        "name": "BPoHC: SILVER",
-        "region": "Len'en Ten'eisenki ~ Brilliant Pagoda or Haze Castle",
-        "category": [
-            "Tracks by JynX",
-            "Len'en Ten'eisenki ~ Brilliant Pagoda or Haze Castle"
-        ],
-        "url": "https://lambda.vgmtreasurechest.com/soundtracks/len-en-ten-eisenk-brilliant-pagoda-or-haze-castle-windows-gamerip-2016/oeflptva/29.%20SILVER.mp3",
-        "original_name": "SILVER"
-    },
-    {
         "requires": "|Progressive Haze:4|",
         "name": "BPoHC: Haze Castle ~ Phantom ROAD",
         "region": "Len'en Ten'eisenki ~ Brilliant Pagoda or Haze Castle",
@@ -966,6 +944,28 @@
         ],
         "url": "https://lambda.vgmtreasurechest.com/soundtracks/len-en-ten-eisenk-brilliant-pagoda-or-haze-castle-windows-gamerip-2016/iclzmoiy/31.%20Microcosm%20~%20Homunculus%20nightmare.mp3",
         "original_name": "ミクロコスモス　～ Homunculus nightmare"
+    },
+    {
+        "requires": "|Progressive Brilliance:4|",
+        "name": "BPoHC: The Utopia of Steel and Oil",
+        "region": "Len'en Ten'eisenki ~ Brilliant Pagoda or Haze Castle",
+        "category": [
+            "Tracks by JynX",
+            "Len'en Ten'eisenki ~ Brilliant Pagoda or Haze Castle"
+        ],
+        "url": "https://lambda.vgmtreasurechest.com/soundtracks/len-en-ten-eisenk-brilliant-pagoda-or-haze-castle-windows-gamerip-2016/nrtwamko/28.%20The%20Utopia%20of%20Steel%20and%20Oil.mp3",
+        "original_name": "鉄と油の理想郷"
+    },
+    {
+        "requires": "|Progressive Brilliance:4| AND |Fujiwara no Shirogane no Sanra|",
+        "name": "BPoHC: SILVER",
+        "region": "Len'en Ten'eisenki ~ Brilliant Pagoda or Haze Castle",
+        "category": [
+            "Tracks by JynX",
+            "Len'en Ten'eisenki ~ Brilliant Pagoda or Haze Castle"
+        ],
+        "url": "https://lambda.vgmtreasurechest.com/soundtracks/len-en-ten-eisenk-brilliant-pagoda-or-haze-castle-windows-gamerip-2016/oeflptva/29.%20SILVER.mp3",
+        "original_name": "SILVER"
     },
     {
         "requires": "|Kuroji Shitodo|",
@@ -1001,28 +1001,6 @@
         "original_name": "月には届かぬ手　～ Moon Child"
     },
     {
-        "requires": "|Progressive Brilliance:5|",
-        "name": "BPoHC: The Crown of Heaven ~ Brilliant Pagoda",
-        "region": "Len'en Ten'eisenki ~ Brilliant Pagoda or Haze Castle",
-        "category": [
-            "Tracks by JynX",
-            "Len'en Ten'eisenki ~ Brilliant Pagoda or Haze Castle"
-        ],
-        "url": "https://lambda.vgmtreasurechest.com/soundtracks/len-en-ten-eisenk-brilliant-pagoda-or-haze-castle-windows-gamerip-2016/etcigixn/35.%20The%20Crown%20of%20Heaven%20~%20Brilliant%20Pagoda.mp3",
-        "original_name": "天の頂　～ Brilliant Pagoda"
-    },
-    {
-        "requires": "|Progressive Brilliance:5| AND |Ooama no Ake no Mitori|",
-        "name": "BPoHC: Arch Heaven ~ Spirit of Nagara",
-        "region": "Len'en Ten'eisenki ~ Brilliant Pagoda or Haze Castle",
-        "category": [
-            "Tracks by JynX",
-            "Len'en Ten'eisenki ~ Brilliant Pagoda or Haze Castle"
-        ],
-        "url": "https://lambda.vgmtreasurechest.com/soundtracks/len-en-ten-eisenk-brilliant-pagoda-or-haze-castle-windows-gamerip-2016/vqrkbcjl/36.%20Arch%20Heaven%20~%20Spirit%20of%20Nagara.mp3",
-        "original_name": "大天　～ Spirit of nagara"
-    },
-    {
         "requires": "|Progressive Haze:5|",
         "name": "BPoHC: The Crown of Shadow ~ Haze Castle",
         "region": "Len'en Ten'eisenki ~ Brilliant Pagoda or Haze Castle",
@@ -1043,6 +1021,28 @@
         ],
         "url": "https://lambda.vgmtreasurechest.com/soundtracks/len-en-ten-eisenk-brilliant-pagoda-or-haze-castle-windows-gamerip-2016/pudjhlig/38.%20Deceased%20Ruler%20of%20the%20Moon.mp3",
         "original_name": "亡き月の王[j]"
+    },
+    {
+        "requires": "|Progressive Brilliance:5|",
+        "name": "BPoHC: The Crown of Heaven ~ Brilliant Pagoda",
+        "region": "Len'en Ten'eisenki ~ Brilliant Pagoda or Haze Castle",
+        "category": [
+            "Tracks by JynX",
+            "Len'en Ten'eisenki ~ Brilliant Pagoda or Haze Castle"
+        ],
+        "url": "https://lambda.vgmtreasurechest.com/soundtracks/len-en-ten-eisenk-brilliant-pagoda-or-haze-castle-windows-gamerip-2016/etcigixn/35.%20The%20Crown%20of%20Heaven%20~%20Brilliant%20Pagoda.mp3",
+        "original_name": "天の頂　～ Brilliant Pagoda"
+    },
+    {
+        "requires": "|Progressive Brilliance:5| AND |Ooama no Ake no Mitori|",
+        "name": "BPoHC: Arch Heaven ~ Spirit of Nagara",
+        "region": "Len'en Ten'eisenki ~ Brilliant Pagoda or Haze Castle",
+        "category": [
+            "Tracks by JynX",
+            "Len'en Ten'eisenki ~ Brilliant Pagoda or Haze Castle"
+        ],
+        "url": "https://lambda.vgmtreasurechest.com/soundtracks/len-en-ten-eisenk-brilliant-pagoda-or-haze-castle-windows-gamerip-2016/vqrkbcjl/36.%20Arch%20Heaven%20~%20Spirit%20of%20Nagara.mp3",
+        "original_name": "大天　～ Spirit of nagara"
     },
     {
         "requires": "|Yabusame Houlen|",
@@ -1122,7 +1122,7 @@
         "original_name": "小鳥達の黒羽焚き"
     },
     {
-        "requires": "|Progressive Haze:5| AND |Progressive Brilliance:5| AND |Taira no Chouki| AND |Wilhelm von Clausewitz Halcyon HISUIMARU| AND |Yabusame Houlen| AND |Adagumo no Yaorochi| AND |Shion| AND |Tsubakura Enraku| AND |Tenkai Zuifeng| AND |Ooama no Ake no Mitori| AND |Hamal Cine|",
+        "requires": "|Progressive Haze:5| AND |Progressive Brilliance:5| AND |Taira no Chouki| AND |Wilhelm von Clausewitz Halcyon HISUIMARU| AND |Yabusame Houlen| AND |Adagumo no Yaorochi| AND |Shion| AND |Tsubakura Enraku| AND |Tenkai Zuifeng| AND |Ooama no Ake no Mitori| AND |Suzumi Kuzu:1|",
         "name": "BPoHC: MO-NA-D-2 ~ Memory Forgery",
         "region": "Len'en Ten'eisenki ~ Brilliant Pagoda or Haze Castle",
         "category": [
@@ -1142,17 +1142,6 @@
         ],
         "url": "https://lambda.vgmtreasurechest.com/soundtracks/len-en-ten-eisenk-brilliant-pagoda-or-haze-castle-windows-gamerip-2016/wfjfamha/47.%20The%20Road%20That%20Must%20Be%20Walked.mp3",
         "original_name": "進まねばならぬ道"
-    },
-    {
-        "requires": "|BPoHC Extra Stage Unlock| AND |Haiji Senri|",
-        "name": "BPoHC: Eternal Imitation Dance ~ Spell Collector",
-        "region": "Len'en Ten'eisenki ~ Brilliant Pagoda or Haze Castle",
-        "category": [
-            "Tracks by JynX",
-            "Len'en Ten'eisenki ~ Brilliant Pagoda or Haze Castle"
-        ],
-        "url": "https://lambda.vgmtreasurechest.com/soundtracks/len-en-ten-eisenk-brilliant-pagoda-or-haze-castle-windows-gamerip-2016/gdyiwhuc/48.%20Eternal%20Imitation%20Dance%20~%20Spell%20Collector.mp3",
-        "original_name": "永劫模倣演舞　～　Spell Collector"
     },
     {
         "requires": "|BPoHC Extra Stage Unlock| AND |Yago Ametsukana|",
@@ -1177,7 +1166,18 @@
         "original_name": "ロストジャックポット"
     },
     {
-        "requires": "|BPoHC Extra Stage Unlock| AND |\"Tsurubami Senri\"|",
+        "requires": "|BPoHC Extra Stage Unlock| AND |Haiji Senri|",
+        "name": "BPoHC: Eternal Imitation Dance ~ Spell Collector",
+        "region": "Len'en Ten'eisenki ~ Brilliant Pagoda or Haze Castle",
+        "category": [
+            "Tracks by JynX",
+            "Len'en Ten'eisenki ~ Brilliant Pagoda or Haze Castle"
+        ],
+        "url": "https://lambda.vgmtreasurechest.com/soundtracks/len-en-ten-eisenk-brilliant-pagoda-or-haze-castle-windows-gamerip-2016/gdyiwhuc/48.%20Eternal%20Imitation%20Dance%20~%20Spell%20Collector.mp3",
+        "original_name": "永劫模倣演舞　～　Spell Collector"
+    },
+    {
+        "requires": "|BPoHC Extra Stage Unlock| AND |Yago Ametsukana| AND |Xeno a| AND |Haiji Senri| AND |\"Tsurubami Senri\"|",
         "name": "BPoHC: Deteriorating Eternal Dance Engine",
         "region": "Len'en Ten'eisenki ~ Brilliant Pagoda or Haze Castle",
         "category": [
@@ -1188,7 +1188,7 @@
         "original_name": "壊れかけの永劫舞踏機関"
     },
     {
-        "requires": "|BPoHC Extra Stage Unlock| AND |Arde|",
+        "requires": "|BPoHC Extra Stage Unlock| AND |Yago Ametsukana| AND |Xeno a| AND |Haiji Senri| AND |Suzumi Kuzu:2|",
         "name": "BPoHC: MO-NA-D-1 ~ Memory Pursuit",
         "region": "Len'en Ten'eisenki ~ Brilliant Pagoda or Haze Castle",
         "category": [
