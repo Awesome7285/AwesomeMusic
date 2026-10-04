@@ -354,6 +354,7 @@
   { "name": "FDF Part III Extra Stage Unlock", "count": 2, "progression": true, "category": ["Extras and Endings"] },
   { "name": "SP Extra Stage Unlock", "count": 2, "progression": true, "category": ["Extras and Endings"] },
   { "name": "FFF Extra Stage Unlock", "count": 2, "progression": true, "category": ["Extras and Endings"] },
+  { "name": "SSS Extra Stage Unlock", "count": 1, "progression": true, "category": ["Extras and Endings"] },
   { "name": "II Extra Stage Unlock", "count": 1, "progression": true, "category": ["Extras and Endings"] },
   { "name": "HRtP Ending", "count": 1, "progression": true, "category": ["Extras and Endings"] },
   { "name": "SoEW Ending", "count": 1, "progression": true, "category": ["Extras and Endings"] },
@@ -412,6 +413,7 @@
   { "name": "SP Good Ending", "count": 1, "progression": true, "category": ["Extras and Endings"] },
   { "name": "SP Bonus Unlocks", "count": 1, "progression": true, "category": ["Extras and Endings"] },
   { "name": "FFF Ending", "count": 1, "progression": true, "category": ["Extras and Endings"] },
+  { "name": "SSS Ending", "count": 1, "progression": true, "category": ["Extras and Endings"] },
   { "name": "II Ending", "count": 1, "progression": true, "category": ["Extras and Endings"] },
 
   { "name": "Spirit Trance", "count": 1, "progression": true, "category": ["Misc Progression"] },
