@@ -44,9 +44,8 @@
   { "name": "Blonde Geidontei Regular", "count": 1, "filler": true, "category": ["Characters: Filler"] },
   { "name": "Labelko", "count": 1, "filler": true, "category": ["Characters: Filler"] },
   { "name": "Jacketko", "count": 1, "filler": true, "category": ["Characters: Filler"] },
+  { "name": "Torte", "count": 1, "filler": true, "category": ["Characters: Filler"] },
   { "name": "Isami Asama", "count": 1, "filler": true, "category": ["Characters: Filler"] },
-  { "name": "Tatsumi Hakkaisan", "count": 1, "filler": true, "category": ["Characters: Filler"] },
-  { "name": "Rumi Arie", "count": 1, "filler": true, "category": ["Characters: Filler"] },
   { "name": "Pop-up Pirate", "count": 1, "filler": true, "category": ["Characters: Filler"] },
   { "name": "Jinbei", "count": 1, "filler": true, "category": ["Characters: Filler"] },
   { "name": "Taira no Masakado", "count": 1, "filler": true, "category": ["Characters: Filler"] },
@@ -62,6 +61,7 @@
   { "name": "Luigi", "count": 1, "filler": true, "category": ["Characters: Filler", "Stupid Filler"] },
   { "name": "Super Fuckin' Mario", "count": 1, "filler": true, "category": ["Characters: Filler", "Stupid Filler"] },
   { "name": "Tom Scott", "count": 1, "filler": true, "category": ["Characters: Filler", "Stupid Filler"] },
+  { "name": "Drake", "count": 1, "filler": true, "category": ["Characters: Filler", "Stupid Filler"] },
 
   { "name": "Akira Kirisame", "count": 1, "filler": true, "category": ["Characters: Filler"] },
   { "name": "Rola", "count": 1, "filler": true, "category": ["Characters: Filler"] },
@@ -97,7 +97,6 @@
   { "name": "Kura Mitsuha", "count": 1, "filler": true, "category": ["Characters: Filler"] },
 
   { "name": "Extra of the Wind", "count": 1, "filler": true, "category": ["Albums: Filler"] },
-  { "name": "Seasonal Dream Vision", "count": 1, "filler": true, "category": ["Albums: Filler"] },
   { "name": "Memorizable Gensokyo", "count": 1, "filler": true, "category": ["Albums: Filler"] },
   { "name": "Symposium of Post-mysticism", "count": 1, "filler": true, "category": ["Albums: Filler"] },
   { "name": "Alternative Facts in Eastern Utopia", "count": 1, "filler": true, "category": ["Albums: Filler"] },
@@ -113,9 +112,7 @@
   { "name": "Strange Creators of Outer World", "count": 1, "filler": true, "category": ["Albums: Filler"] },
   { "name": "Strange Articles of the Outer World", "count": 1, "filler": true, "category": ["Albums: Filler"] },
   { "name": "Curiosities of Lotus Asia", "count": 1, "filler": true, "category": ["Albums: Filler"] },
-  { "name": "Torte Le Magic", "count": 1, "filler": true, "category": ["Albums: Filler"] },
   { "name": "Gold Rush", "count": 1, "filler": true, "category": ["Albums: Filler"] },
-  { "name": "Samidare", "count": 1, "filler": true, "category": ["Albums: Filler"] },
 
   { "name": "Reimu's Stick", "count": 1, "filler": true, "category": ["Stupid Filler"] },
   { "name": "Reimu's Rod", "count": 1, "filler": true, "category": ["Stupid Filler"] },

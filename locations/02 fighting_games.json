@@ -630,7 +630,7 @@
     },
     {
         "name": "UNL: Unknown X ~ Unfound Adventure",
-        "requires": "|Giant Catfish|",
+        "requires": "|Taisui Xingjun, Supreme Catfish|",
         "place_item": [
             "Final Boss Completed"
         ],
