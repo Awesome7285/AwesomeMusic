@@ -630,7 +630,7 @@
     },
     {
         "name": "UNL: Unknown X ~ Unfound Adventure",
-        "requires": "|Giant Catfish|",
+        "requires": "|Taisui Xingjun, Supreme Catfish|",
         "place_item": [
             "Final Boss Completed"
         ],
@@ -703,7 +703,7 @@
     },
     {
         "name": "UNL: Unknown X ~ Unfound Adventure (Arrange)",
-        "requires": "|Giant Catfish|",
+        "requires": "|Taisui Xingjun, Supreme Catfish|",
         "region": "Touhou Hisoutensoku",
         "original_name": "アンノウンＸ　～ Unfound Adventure (Arrange)",
         "url": "https://vgmtreasurechest.com/soundtracks/touhou-12.3-unthinkable-natural-law-kakunetsu-zoushin-hisoutensoku-touhou-hisoutensoku-original-soundtrack/vdgsylmb/18.%20Unknown%20X%20~%20Unfound%20Adventure.mp3"
@@ -1500,7 +1500,7 @@
     },
     {
         "name": "AoCF: Tonight Stars an Easygoing Egoist (Live ver.) ~ Egoistic Flowers.",
-        "requires": "|Joon Yorigami| AND |Shion Yorigami|",
+        "requires": "|Jo'on Yorigami| AND |Shion Yorigami|",
         "place_item": [
             "Final Boss Completed"
         ],
@@ -1587,7 +1587,7 @@
     },
     {
         "name": "AoCF: Tonight Stars an Easygoing Egoist ~ Egoistic Flowers. (Arrange)",
-        "requires": "|Joon Yorigami| AND |Shion Yorigami|",
+        "requires": "|Jo'on Yorigami| AND |Shion Yorigami|",
         "region": "Antinomy of Common Flowers",
         "original_name": "今宵は飄逸なエゴイスト　～ Egoistic Flowers. (Arrange)",
         "url": "https://lambda.vgmtreasurechest.com/soundtracks/kanzen-hyoui-discography-touhou-hyouibana-antinomy-of-common-flowers-original-sound-track/dsetdlxc/3-09.%20%E4%BB%8A%E5%AE%B5%E3%81%AF%E9%A3%84%E9%80%B8%E3%81%AA%E3%82%A8%E3%82%B4%E3%82%A4%E3%82%B9%E3%83%88%20%EF%BD%9E%20Egoistic%20Flowers..mp3"
@@ -1706,7 +1706,7 @@
     },
     {
         "name": "SFW: Tonight Stars an Easygoing Egoist ~ Egoistic Flowers",
-        "requires": "|Joon Yorigami| AND |Shion Yorigami|",
+        "requires": "|Jo'on Yorigami| AND |Shion Yorigami|",
         "region": "Gouyoku Ibun",
         "original_name": "今宵は飄逸なエゴイスト　～ Egoistic Flowers",
         "url": "https://nu.vgmtreasurechest.com/soundtracks/touhou-17.5-gouyoku-ibun-submerged-hell-of-sunken-sorrow-original-soundtrack/sdokgeda/2-03.%20Tonight%20Stars%20an%20Easygoing%20Egoist%20~%20Egoistic%20Flowers.mp3"
