@@ -32,9 +32,9 @@
 	{"requires": "|Muse|", "name": "KOG: エニグマティクド-ル ~ God Knows", "region": "Kioh Gyoku", "url": "https://vgmtreasurechest.com/soundtracks/seihou-project-2-kioh-gyoku-windows-gamerip-2001/iyubypbm/10%20%E3%82%A8%E3%83%8B%E3%82%B0%E3%83%9E%E3%83%86%E3%82%A3%E3%82%AF%E3%83%89-%E3%83%AB%20~%20God%20Knows.mp3"},
 
 	{"requires": "", "name": "BSR: Before the Beginning", "region": "Banshiryuu", "url": "https://jetta.vgmtreasurechest.com/soundtracks/seihou-3-banshiryuu-windows-gamerip-2004/vggbbrjwyv/1.%20Before%20the%20Beginning.mp3"},
-	{"requires": "", "name": "BSR: Find Erich!", "region": "Banshiryuu", "url": "https://jetta.vgmtreasurechest.com/soundtracks/seihou-3-banshiryuu-windows-gamerip-2004/SSGekxnleol/2.%20Find%20Erich%21.mp3"},
+	{"requires": "", "name": "BSR: Find Erich!", "region": "Banshiryuu", "url": "https://jetta.vgmtreasurechest.com/soundtracks/seihou-3-banshiryuu-windows-gamerip-2004/sgekxnleol/2.%20Find%20Erich%21.mp3"},
 	{"requires": "|Erich| AND |Marie|", "name": "BSR: Shocking Assailant", "region": "Banshiryuu", "url": "https://jetta.vgmtreasurechest.com/soundtracks/seihou-3-banshiryuu-windows-gamerip-2004/rdwepllfsc/3.%20Shocking%20Assailant.mp3"},
-	{"requires": "", "name": "BSR: Endless Night View", "region": "Banshiryuu", "url": "https://jetta.vgmtreasurechest.com/soundtracks/seihou-3-banshiryuu-windows-gamerip-2004/uhjuySSGrpk/4.%20Endless%20Night%20View.mp3"},
+	{"requires": "", "name": "BSR: Endless Night View", "region": "Banshiryuu", "url": "https://jetta.vgmtreasurechest.com/soundtracks/seihou-3-banshiryuu-windows-gamerip-2004/uhjuysgrpk/4.%20Endless%20Night%20View.mp3"},
 	{"requires": "|Yuuta Kirishima|", "name": "BSR: Flamethrower", "region": "Banshiryuu", "url": "https://jetta.vgmtreasurechest.com/soundtracks/seihou-3-banshiryuu-windows-gamerip-2004/bobeckmgzs/5.%20Flamethrower.mp3"},
 	{"requires": "", "name": "BSR: Finally Reaching the Warp Gate", "region": "Banshiryuu", "url": "https://jetta.vgmtreasurechest.com/soundtracks/seihou-3-banshiryuu-windows-gamerip-2004/bzrzazvodj/6.%20Finally%20Reaching%20the%20Warp%20Gate.mp3"},
 	{"requires": "|Tolia|", "name": "BSR: Invincible Shield!", "region": "Banshiryuu", "url": "https://jetta.vgmtreasurechest.com/soundtracks/seihou-3-banshiryuu-windows-gamerip-2004/mizwljlohl/7.%20Invincible%20Shield%21.mp3"},
