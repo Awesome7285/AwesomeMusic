@@ -1,1 +1,3 @@
 *__pycache__
+contributing/output/*.json
+contributing/output/images/*.png
