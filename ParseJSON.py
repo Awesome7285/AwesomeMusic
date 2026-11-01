@@ -49,7 +49,7 @@ for file in json_files:
         regions_to_songs[loc["region"]].append(loc["name"])
     items = data['items']
     for cat, item_list in items.items():
-        for item in item_list:
+        for item in item_list.keys():
             item_name_to_id[item] = item_id_offset+(10000)
             item_to_classification[item] = ItemClassification.progression
             item_to_category[item] = cat

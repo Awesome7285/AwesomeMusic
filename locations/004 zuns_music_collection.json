@@ -800,10 +800,48 @@
         }
     ],
     "items": {
+        "Album": {
+            "Dolls in Pseudo Paradise": {
+                "url": "https://jetta.vgmtreasurechest.com/soundtracks/zun-s-music-collection-01-dolls-in-pseudo-paradise/thumbs/00%20Front.jpg"
+            },
+            "Ghostly Field Club": {
+                "url": "https://jetta.vgmtreasurechest.com/soundtracks/zun-s-music-collection-02-ghostly-field-club/thumbs/00%20Front.jpg"
+            },
+            "Changeability of Strange Dream": {
+                "url": "https://jetta.vgmtreasurechest.com/soundtracks/zun-s-music-collection-03-changeability-of-strange-dream/thumbs/00%20Front.jpg"
+            },
+            "Retrospective 53 minutes": {
+                "url": "https://lambda.vgmtreasurechest.com/soundtracks/zun-s-music-collection-04-retrospective-53-minutes/thumbs/00%20Front.jpg"
+            },
+            "Magical Astronomy": {
+                "url": "https://lambda.vgmtreasurechest.com/soundtracks/zun-s-music-collection-05-magical-astronomy/thumbs/00%20Front.jpg"
+            },
+            "Unknown Flower, Mesmorizing Journey": {
+                "url": "https://lambda.vgmtreasurechest.com/soundtracks/zun-s-music-collection-06-unknown-flower-mesmerizing-journey/thumbs/00%20Front.jpg"
+            },
+            "Trojan Green Asteroid": {
+                "url": "https://nu.vgmtreasurechest.com/soundtracks/zun-s-music-collection-07-trojan-green-asteroid/thumbs/00%20Front.jpg"
+            },
+            "Neo-Traditionalism of Japan": {
+                "url": "https://nu.vgmtreasurechest.com/soundtracks/zun-s-music-collection-08-neo-traditionalism-of-japan/thumbs/00%20Front.jpg"
+            },
+            "Dr. Latency's Freak Report": {
+                "url": "https://lambda.vgmtreasurechest.com/soundtracks/zun-s-music-collection-08-dr.-latency-s-freak-report/thumbs/00%20Front.jpg"
+            },
+            "Dateless Bar \"Old Adam\"": {
+                "url": "https://nu.vgmtreasurechest.com/soundtracks/zun-s-music-collection-09-dateless-bar-old-adam-2016/thumbs/00%20Front.jpg"
+            },
+            "Rainbow-Colored Septentrion": {
+                "url": "https://nu.vgmtreasurechest.com/soundtracks/nijiiro-no-seputentorion-zuns-music-collection-vol.-9.5-2021/thumbs/00%20Front%20iTunes.jpg"
+            },
+            "Taboo Japan Disentanglement": {
+                "url": "https://nu.vgmtreasurechest.com/soundtracks/tanabatazaka-mugen-nou-taboo-japan-disentanglement.-zun-music-collection-vol.10-2024/thumbs/00%20Front.jpg"
+            }
+        },
         "Characters": {
-            "Maribel Hearn": [],
-            "Renko Usami": [],
-            "ZUN": []
+            "Maribel Hearn": {},
+            "Renko Usami": {},
+            "ZUN": {}
         }
     }
 }

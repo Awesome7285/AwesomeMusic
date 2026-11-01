@@ -14,10 +14,13 @@
         }
     ],
     "items": {
+        "Album": {
+            "High Quality Rips": {}
+        },
         "Characters": {},
         "Extras and Endings": {},
         "Misc Progression": {
-            "Gegagedigedagedago": []
+            "Gegagedigedagedago": {}
         }
     }
 }

@@ -240,11 +240,49 @@
         }
     ],
     "items": {
+        "Album": {
+            "Bohemian Archive in Japanese Red": {
+                "url": "https://nu.vgmtreasurechest.com/soundtracks/touhou-bunkachou-bohemian-archive-in-japanese-red-2005/thumbs/03%20Front.jpg"
+            },
+            "Perfect Memento in Strict Sense": {
+                "badurl": "https://jetta.vgmtreasurechest.com/soundtracks/touhou-gumon-shiki-perfect-memento-in-strict-sense-2006/thumbs/01%20Fanbook%20Front.jpg"
+            },
+            "The Grimoire of Marisa": {
+                "url": "https://jetta.vgmtreasurechest.com/soundtracks/the-grimoire-of-marisa-2009/thumbs/00%20Booklet%20Front.jpg"
+            },
+            "Eastern and Little Nature Deity": {
+                "url": "https://jetta.vgmtreasurechest.com/soundtracks/touhou-sangetsusei-eastern-and-little-nature-deity-2007/thumbs/00%20Front.jpg"
+            },
+            "Strange and Bright Nature Deity CD1": {
+                "url": "https://nu.vgmtreasurechest.com/soundtracks/touhou-sangetsusei-strange-and-bright-nature-deity/thumbs/1-00%20Front%20small.jpg"
+            },
+            "Strange and Bright Nature Deity CD2": {
+                "url": "https://nu.vgmtreasurechest.com/soundtracks/touhou-sangetsusei-strange-and-bright-nature-deity/thumbs/2-03%20Front.jpg"
+            },
+            "Strange and Bright Nature Deity CD3": {
+                "url": "https://nu.vgmtreasurechest.com/soundtracks/touhou-sangetsusei-strange-and-bright-nature-deity/thumbs/3-02%20Front.jpg"
+            },
+            "Silent Sinner in Blue": {
+                "url": "https://jetta.vgmtreasurechest.com/soundtracks/touhou-bougetsushou-silent-sinner-in-blue.-2008/thumbs/00%20Front.jpg"
+            },
+            "Oriental Sacred Place CD1": {
+                "url": "https://nu.vgmtreasurechest.com/soundtracks/touhou-sangetsusei-oriental-sacred-place/thumbs/1-00%20Front.jpg"
+            },
+            "Oriental Sacred Place CD2": {
+                "url": "https://nu.vgmtreasurechest.com/soundtracks/touhou-sangetsusei-oriental-sacred-place/thumbs/2-00%20Front.jpg"
+            },
+            "Oriental Sacred Place CD3": {
+                "url": "https://nu.vgmtreasurechest.com/soundtracks/touhou-sangetsusei-oriental-sacred-place/thumbs/3-00%20Front.jpg"
+            },
+            "Forbidden Scrollery": {
+                "url": "https://nu.vgmtreasurechest.com/soundtracks/touhou-suzunaan-forbidden-scrollery-vol6-special-edition-music-track-2016/thumbs/00%20Disc.jpg"
+            }
+        },
         "Characters": {
-            "Hieda no Akyuu": [],
-            "Watatsuki no Yorihime": [],
-            "Watatsuki no Toyohime": [],
-            "Kosuzu Motoori": []
+            "Hieda no Akyuu": {},
+            "Watatsuki no Yorihime": {},
+            "Watatsuki no Toyohime": {},
+            "Kosuzu Motoori": {}
         }
     }
 }

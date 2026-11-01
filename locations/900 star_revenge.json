@@ -302,23 +302,28 @@
         }
     ],
     "items": {
+        "Album": {
+            "Star Revenge 8": {
+                "url": "https://nu.vgmtreasurechest.com/soundtracks/star-revenge-8-scepter-of-hope-v14-n64-gamerip-2016/thumbs/SR8%20Logo.png"
+            }
+        },
         "Characters": {
-            "Mario": [],
-            "John Cena": []
+            "Mario": {},
+            "John Cena": {}
         },
         "Misc Progression": {
-            "Undertale": [],
-            "My Heart Will Go On by Céline Dion": [],
-            "Super Badge": [],
-            "Ultra Badge": [],
-            "Wing Cap": [],
-            "Vanish Cap": [],
-            "Grey Switch": [],
-            "Key 1": [],
-            "Key 2": [],
-            "Makai Fields Cannon": [],
-            "Youkai Mountain Cannon": [],
-            "SR8 Overworld Cannon": []
+            "Undertale": {},
+            "My Heart Will Go On by Céline Dion": {},
+            "Super Badge": {},
+            "Ultra Badge": {},
+            "Wing Cap": {},
+            "Vanish Cap": {},
+            "Grey Switch": {},
+            "Key 1": {},
+            "Key 2": {},
+            "Makai Fields Cannon": {},
+            "Youkai Mountain Cannon": {},
+            "SR8 Overworld Cannon": {}
         }
     }
 }

@@ -278,15 +278,35 @@
         }
     ],
     "items": {
+        "Album": {
+            "Shoot the Bullet": {
+                "url": "https://lambda.vgmtreasurechest.com/soundtracks/touhou-bunkachou-shoot-the-bullet/thumbs/cover.jpg"
+            },
+            "Double Spoiler": {
+                "url": "https://lambda.vgmtreasurechest.com/soundtracks/double-spoiler-touhou-bunkachou/thumbs/cover.jpg"
+            },
+            "Great Fairy Wars": {
+                "url": "https://jetta.vgmtreasurechest.com/soundtracks/touhou-12.8-fairy-wars-yousei-daisensou-touhou-sangessei/thumbs/cover.jpg"
+            },
+            "Impossible Spell Card": {
+                "url": "https://lambda.vgmtreasurechest.com/soundtracks/touhou-14.3-danmaku-amanojaku-impossible-spell-card-ost/thumbs/cover.jpg"
+            },
+            "Violet Detector": {
+                "url": "https://lambda.vgmtreasurechest.com/soundtracks/touhou-16.5-violet-detector-touhou-hifuu-nightmare-diary-original-soundtrack/thumbs/Image.jpg"
+            },
+            "100th Black Market": {
+                "url": "https://jetta.vgmtreasurechest.com/soundtracks/touhou-18.5-bulletphiles-black-market-100th-black-market-windows-gamerip-2022/thumbs/cover.jpg"
+            }
+        },
         "Characters": {},
         "Extras and Endings": {
-            "GFW Extra Stage Unlock": [],
-            "GFW Ending": []
+            "GFW Extra Stage Unlock": {},
+            "GFW Ending": {}
         },
         "Misc Progression": {
-            "Aya's Camera": [],
-            "Seija's Cheats": [],
-            "Sumireko's Smartphone": []
+            "Aya's Camera": {},
+            "Seija's Cheats": {},
+            "Sumireko's Smartphone": {}
         }
     }
 }

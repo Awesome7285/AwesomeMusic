@@ -32,11 +32,16 @@
         }
     ],
     "items": {
+        "Album": {
+            "12 bananas": {
+                "url": "https://jetta.vgmtreasurechest.com/soundtracks/12-bananas-gamerip-2020/thumbs/Image.png"
+            }
+        },
         "Characters": {
-            "Luther": []
+            "Luther": {}
         },
         "Misc Progression": {
-            "11 Bananas": []
+            "11 Bananas": {}
         }
     }
 }

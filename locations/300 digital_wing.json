@@ -233,5 +233,92 @@
         {"requires": "|Aya Shameimaru|", "name": "DiGiWi AGAiN: MiRACLE WiNG 2024", "region": "DiGiWi AGAiN", "url": "https://jetta.vgmtreasurechest.com/soundtracks/digiwi-again-2024/bxiazyua/07.%20MiRACLE%20WiNG%202024.mp3"},
         {"requires": "|Son Biten|", "name": "DiGiWi AGAiN: TINY UNIVERSE", "region": "DiGiWi AGAiN", "url": "https://jetta.vgmtreasurechest.com/soundtracks/digiwi-again-2024/uvthfdde/08.%20TINY%20UNIVERSE.mp3"}
     ], 
-    "items": {}
+    "items": {
+        "Album": {
+            "DiGiTAL WiNG": {
+                "url": "https://jetta.vgmtreasurechest.com/soundtracks/digital-wing-2011/thumbs/00%20Front.jpg"
+            },
+            "Angel Time": {
+                "url": "https://jetta.vgmtreasurechest.com/soundtracks/angel-time-2012/thumbs/00%20Front.jpg"
+            },
+            "Eternal Fantasia": {
+                "url": "https://lambda.vgmtreasurechest.com/soundtracks/eternal-fantasia-2012/thumbs/00%20Front.jpg"
+            },
+            "Frozen Traveler": {
+                "url": "https://nu.vgmtreasurechest.com/soundtracks/frozen-traveler-2012/thumbs/00%20Front.jpg"
+            },
+            "DiGiHalo NEXUS": {
+                "url": "https://jetta.vgmtreasurechest.com/soundtracks/digihalo-nexus-2013/thumbs/00%20Front.jpg"
+            },
+            "DiGiHalo PRIDE": {
+                "url": "https://lambda.vgmtreasurechest.com/soundtracks/digihalo-pride-2013/thumbs/00%20Front.jpg"
+            },
+            "DiGiWi LEGEND": {
+                "url": "https://jetta.vgmtreasurechest.com/soundtracks/digiwi-legend-2014/thumbs/00%20Front.jpg"
+            },
+            "DiGiWi DREAM": {
+                "url": "https://jetta.vgmtreasurechest.com/soundtracks/digiwi-dream-2014/thumbs/00%20Front.jpg"
+            },
+            "DiGiWi FUTURE": {
+                "url": "https://jetta.vgmtreasurechest.com/soundtracks/digiwi-future-2014/thumbs/00%20Front.jpg"
+            },
+            "DiGiWi BEST": {
+                "url": "https://jetta.vgmtreasurechest.com/soundtracks/digiwi-best-2015/thumbs/00%20Front.jpg"
+            },
+            "DiGiWi iMPACT": {
+                "url": "https://jetta.vgmtreasurechest.com/soundtracks/digiwi-impact-2015/thumbs/00%20Booklet%20Front.jpg"
+            },
+            "DiGiWi MiRACLE": {
+                "url": "https://lambda.vgmtreasurechest.com/soundtracks/digiwi-miracle-2015/thumbs/00%20Front.jpg"
+            },
+            "DiGiWi CONTEND": {
+                "url": "https://nu.vgmtreasurechest.com/soundtracks/digiwi-contend-2016/thumbs/00%20Front.jpg"
+            },
+            "DiGiWi SHiNiNG": {
+                "url": "https://lambda.vgmtreasurechest.com/soundtracks/digiwi-shining-2016/thumbs/00%20Front.jpg"
+            },
+            "DiGiWi BEST 2016": {
+                "url": "https://nu.vgmtreasurechest.com/soundtracks/digiwi-best-2016-2016/thumbs/00%20Front.jpg"
+            },
+            "DiGiWi DELiGHT": {
+                "url": "https://lambda.vgmtreasurechest.com/soundtracks/digiwi-delight-2017/thumbs/00%20Front.jpg"
+            },
+            "DiGiWi PARTY": {
+                "url": "https://lambda.vgmtreasurechest.com/soundtracks/digiwi-party-2017/thumbs/00%20Front.jpg"
+            },
+            "DiGiWi GENERATiON": {
+                "url": "https://nu.vgmtreasurechest.com/soundtracks/digiwi-generation-2017/thumbs/00%20Front.jpg"
+            },
+            "DiGiWi NEXT": {
+                "url": "https://jetta.vgmtreasurechest.com/soundtracks/digiwi-next-2018/thumbs/00%20Front.jpg"
+            },
+            "DiGiWi BEST 2018": {
+                "url": "https://lambda.vgmtreasurechest.com/soundtracks/digiwi-best-2018-2018/thumbs/00%20Front.jpg"
+            },
+            "DiGiWi SUNLiGHT": {
+                "url": "https://jetta.vgmtreasurechest.com/soundtracks/digiwi-sunlight-2018/thumbs/00%20Front.jpg"
+            },
+            "DiGiWi EVOLUTiON": {
+                "url": "https://lambda.vgmtreasurechest.com/soundtracks/digiwi-evolution-2019/thumbs/00%20Front.jpg"
+            },
+            "DiGiWi ADVANCE": {
+                "url": "https://jetta.vgmtreasurechest.com/soundtracks/digiwi-advance-2019/thumbs/00%20Front.jpg"
+            },
+            "DiGiWi SURViVE": {
+                "url": "https://jetta.vgmtreasurechest.com/soundtracks/digiwi-survive-2020/thumbs/00%20Front.jpg"
+            },
+            "DiGiWi BEST 2022": {
+                "url": "https://lambda.vgmtreasurechest.com/soundtracks/digiwi-best-2022-2022/thumbs/00%20Front.png"
+            },
+            "DiGiWi SPiRiT": {
+                "url": "https://lambda.vgmtreasurechest.com/soundtracks/digiwi-spirit-2022/thumbs/00%20Front.png"
+            },
+            "DiGiWi MOONLiGHT": {
+                "url": "https://jetta.vgmtreasurechest.com/soundtracks/digiwi-moonlight-2023/thumbs/00%20Front.png"
+            },
+            "DiGiWi AGAiN": {
+                "url": "https://jetta.vgmtreasurechest.com/soundtracks/digiwi-again-2024/thumbs/00%20Front.png"
+            }
+        }
+    }
 }

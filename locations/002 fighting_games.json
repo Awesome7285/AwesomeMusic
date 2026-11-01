@@ -1794,19 +1794,42 @@
         }
     ],
     "items": {
+        "Album": {
+            "Immaterial and Missing Power": {
+                "url": "https://nu.vgmtreasurechest.com/soundtracks/gensoukyokubassui-touhou-suimusou-original-sound-track-2005/thumbs/00%20Front.jpg"
+            },
+            "Scarlet Weather Rhapsody": {
+                "url": "https://nu.vgmtreasurechest.com/soundtracks/touhou-10.5-scarlet-weather-rhapsody-zenjinrui-no-tengakuroku-touhou-hisouten-original-soundtrack/thumbs/00%20Front.jpg"
+            },
+            "Touhou Hisoutensoku": {
+                "url": "https://jetta.vgmtreasurechest.com/soundtracks/touhou-12.3-unthinkable-natural-law-kakunetsu-zoushin-hisoutensoku-touhou-hisoutensoku-original-soundtrack/thumbs/00%20Front.jpg"
+            },
+            "Hopeless Masquerade": {
+                "url": "https://lambda.vgmtreasurechest.com/soundtracks/ankoku-nougakushuu-shinkirou-touhou-shinkirou-original-soundtrack/thumbs/01-TH13.5-FRONT.jpg"
+            },
+            "Urban Legend in Limbo": {
+                "url": "https://lambda.vgmtreasurechest.com/soundtracks/touhou-14.5-urban-legend-in-limbo-soundtrack/thumbs/00%20Front.jpg"
+            },
+            "Antinomy of Common Flowers": {
+                "url": "https://lambda.vgmtreasurechest.com/soundtracks/kanzen-hyoui-discography-touhou-hyouibana-antinomy-of-common-flowers-original-sound-track/thumbs/00%20Front.jpg"
+            },
+            "Gouyoku Ibun": {
+                "url": "https://nu.vgmtreasurechest.com/soundtracks/touhou-17.5-gouyoku-ibun-submerged-hell-of-sunken-sorrow-original-soundtrack/thumbs/1-Cover.jpg"
+            }
+        },
         "Characters": {},
         "Extras and Endings": {
-            "IaMP Ending": [],
-            "SWR Ending": [],
-            "UNL Ending": [],
-            "HM Ending": [],
-            "ULiL Ending": [],
-            "AoCF Ending": [],
-            "SFW Ending": []
+            "IaMP Ending": {},
+            "SWR Ending": {},
+            "UNL Ending": {},
+            "HM Ending": {},
+            "ULiL Ending": {},
+            "AoCF Ending": {},
+            "SFW Ending": {}
         },
         "Misc Progression": {
-            "Occult Ball": [],
-            "Playstation 4": []
+            "Occult Ball": {},
+            "Playstation 4": {}
         }
     }
 }

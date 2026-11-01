@@ -28,5 +28,17 @@
         {"requires": "|Jo'on Yorigami| AND |Shion Yorigami|", "name": "TOHO DANCE ANTHEM Vol.3: Aloofness From The World", "region": "TOHO DANCE ANTHEM Vol.3", "url": "https://lambda.vgmtreasurechest.com/soundtracks/toho-dance-anthem-vol3-2019/bjrhivdg/08.%20Aloofness%20From%20The%20World.mp3"},
         {"requires": "|Shinmyoumaru Sukuna|", "name": "TOHO DANCE ANTHEM Vol.3: Little Big Princess", "region": "TOHO DANCE ANTHEM Vol.3", "url": "https://lambda.vgmtreasurechest.com/soundtracks/toho-dance-anthem-vol3-2019/ugwmxdxc/09.%20Little%20Big%20Princess.mp3"}
     ],
-    "items": {}
+    "items": {
+        "Album": {
+            "TOHO DANCE ANTHEM Vol.1": {
+                "url": "https://nu.vgmtreasurechest.com/soundtracks/toho-dance-anthem-vol1-2018/thumbs/00%20Front.jpg"
+            },
+            "TOHO DANCE ANTHEM Vol.2": {
+                "url": "https://jetta.vgmtreasurechest.com/soundtracks/toho-dance-anthem-vol2-2018/thumbs/00%20Front.jpg"
+            },
+            "TOHO DANCE ANTHEM Vol.3": {
+                "url": "https://lambda.vgmtreasurechest.com/soundtracks/toho-dance-anthem-vol3-2019/thumbs/00%20Front.jpg"
+            }
+        }
+    }
 }

@@ -296,27 +296,35 @@
         }
     ],
     "items": {
+        "Album": {
+            "Touhou xià yèjì ~ Shining Shooting Star": {
+                "url": "https://nu.vgmtreasurechest.com/soundtracks/touhou-shining-shooting-star-original-soundtrack/thumbs/cover.jpg"
+            },
+            "Touhou zīzhìshū ~ Immortal Immanuel": {
+                "url": "https://lambda.vgmtreasurechest.com/soundtracks/%E6%9D%B1%E6%96%B9%E8%B5%84%E5%BF%97%E7%96%8F-immortal-immanuel-2025/thumbs/Cover.png"
+            }
+        },
         "Characters": {
-            "Ami": [],
-            "Rakuki Momosame": [],
-            "Seiryuu Sya": [],
-            "Kage Mimeima": [],
-            "Rakukun Momosame": [],
-            "Tensei Muriya": [],
-            "Rika Kirigakure": [],
-            "Akako Koujiyaku": [],
-            "Yayoi Shouyousan": [],
-            "Wudi Xia": [],
-            "Duanmu Lanzhou": [],
-            "Chaohe Yingdu": [],
-            "Yin Chou, Lord of the Tianxi Star": [],
-            "Tianxigong Lian'er": []
+            "Ami": {},
+            "Rakuki Momosame": {},
+            "Seiryuu Sya": {},
+            "Kage Mimeima": {},
+            "Rakukun Momosame": {},
+            "Tensei Muriya": {},
+            "Rika Kirigakure": {},
+            "Akako Koujiyaku": {},
+            "Yayoi Shouyousan": {},
+            "Wudi Xia": {},
+            "Duanmu Lanzhou": {},
+            "Chaohe Yingdu": {},
+            "Yin Chou, Lord of the Tianxi Star": {},
+            "Tianxigong Lian'er": {}
         },
         "Extras and Endings": {
-            "SSS Extra Stage Unlock": [],
-            "II Extra Stage Unlock": [],
-            "SSS Ending": [],
-            "II Ending": []
+            "SSS Extra Stage Unlock": {},
+            "II Extra Stage Unlock": {},
+            "SSS Ending": {},
+            "II Ending": {}
         }
     }
 }

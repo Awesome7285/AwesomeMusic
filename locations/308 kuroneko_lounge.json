@@ -349,5 +349,62 @@
         {"requires": "|Mai Teireida| AND |Satono Nishida|", "name": "House set of Hidden Star in Four Seasons: Crazy Backup Dancers (Hiratake Remix)", "region": "House set of Hidden Star in Four Seasons", "url": "https://vgmtreasurechest.com/soundtracks/house-set-of-hidden-star-in-four-seasons-2018/ryrpzcmf/2-05.%20Crazy%20Backup%20Dancers%20%28Hiratake%20Remix%29.mp3"},
         {"requires": "|Mai Teireida| AND |Satono Nishida|", "name": "House set of Hidden Star in Four Seasons: Crazy Backup Dancers (Jerico Remix)", "region": "House set of Hidden Star in Four Seasons", "url": "https://vgmtreasurechest.com/soundtracks/house-set-of-hidden-star-in-four-seasons-2018/ocvvrvei/2-06.%20Crazy%20Backup%20Dancers%20%28Jerico%20Remix%29.mp3"}
     ],
-    "items": {}
+    "items": {
+        "Album": {
+            "House set of Mountain of Faith": {
+                "url": "https://nu.vgmtreasurechest.com/soundtracks/house-set-of-mountain-of-faith-touhou-tracks-rmx-works-2009/thumbs/Folder.jpg"
+            },
+            "House set of Undefined Fantastic Object": {
+                "url": "https://lambda.vgmtreasurechest.com/soundtracks/house-set-of-undefined-fantastic-objec-2010/thumbs/folder.jpg"
+            },
+            "House set of the Embodiment of Scarlet Devil": {
+                "url": "https://jetta.vgmtreasurechest.com/soundtracks/house-set-of-the-embodiment-of-scarlet-devil-touhou-tracks-rmx-works-2010/thumbs/%E5%87%9B_House%20set%20of%20the%20Embodiment%20of%20Scarlet%20Devil_None.jpg"
+            },
+            "House set of Imperishable Night": {
+                "url": "https://lambda.vgmtreasurechest.com/soundtracks/house-set-of-imperishable-night-touhou-tracks-rmx-works-2010/thumbs/00%20Front.png"
+            },
+            "House set of Retrospective 53 minutes": {
+                "url": "https://nu.vgmtreasurechest.com/soundtracks/house-set-of-retrospective-53-minutes-2011/thumbs/folder.png"
+            },
+            "House set of Perfect Cherry Blossom": {
+                "url": "https://nu.vgmtreasurechest.com/soundtracks/house-set-of-perfect-cherry-blossom-2011/thumbs/00%20Front.jpg"
+            },
+            "House set of Subterranean Animism": {
+                "url": "https://nu.vgmtreasurechest.com/soundtracks/house-set-of-subterranean-animism-touhou-tracks-rmx-works-2011/thumbs/cover.png"
+            },
+            "House set of Phantasmagoria of Flower View": {
+                "url": "https://lambda.vgmtreasurechest.com/soundtracks/house-set-of-phantasmagoria-of-flower-view-2011/thumbs/00%20Front.png"
+            },
+            "House set of Ten Desires": {
+                "url": "https://nu.vgmtreasurechest.com/soundtracks/house-set-of-%E2%80%9Dten-desires%E2%80%9D-%EF%BD%9E-daishibyo-set-2012/thumbs/00%20Front.jpg"
+            },
+            "House set of Magical Astronomy": {
+                "url": "https://lambda.vgmtreasurechest.com/soundtracks/house-set-of-magical-astronomy-2012/thumbs/cover.jpg"
+            },
+            "House set of Mountain of Faith ReEdit": {
+                "url": "https://jetta.vgmtreasurechest.com/soundtracks/house-set-of-mountain-of-faith-reedit-2013/thumbs/folder.jpg"
+            },
+            "House set of Trojan Green Asteroid": {
+                "url": "https://lambda.vgmtreasurechest.com/soundtracks/house-set-of-trojan-green-asteroid-2013/thumbs/folder.jpg"
+            },
+            "House set of Double Dealing Character": {
+                "url": "https://lambda.vgmtreasurechest.com/soundtracks/house-set-of-double-dealing-character-2014/thumbs/00%20Front.png"
+            },
+            "House set of Neo-traditionalism of Japan": {
+                "url": "https://lambda.vgmtreasurechest.com/soundtracks/house-set-of-neotraditionalism-of-japan-2014/thumbs/folder.jpg"
+            },
+            "House set of Legacy of Lunatic Kingdom": {
+                "url": "https://jetta.vgmtreasurechest.com/soundtracks/house-set-of-legacy-of-lunatic-kingdom-2016/thumbs/00%20Front.png"
+            },
+            "House set of Dr. Latency's Freak Report": {
+                "url": "https://nu.vgmtreasurechest.com/soundtracks/house-set-of-dr.-latency-s-freak-report-2017/thumbs/cover.jpg"
+            },
+            "House set of Dateless Bar Old Adam": {
+                "url": "https://nu.vgmtreasurechest.com/soundtracks/house-set-of-dateless-bar-old-adam-2017/thumbs/cover.jpg"
+            },
+            "House set of Hidden Star in Four Seasons": {
+                "url": "https://jetta.vgmtreasurechest.com/soundtracks/house-set-of-hidden-star-in-four-seasons-2018/thumbs/00%20Front.jpg"
+            }
+        }
+    }
 }

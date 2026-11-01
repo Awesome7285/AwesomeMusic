@@ -374,30 +374,41 @@
         }
     ],
     "items": {
+        "Album": {
+            "Shuusou Gyoku": {
+                "url": "https://jetta.vgmtreasurechest.com/soundtracks/seihou-project-1-shuusou-gyoku-original-soundtrack/thumbs/Shuusou_Gyoku.jpg"
+            },
+            "Kioh Gyoku": {
+                "url": "https://jetta.vgmtreasurechest.com/soundtracks/seihou-project-2-kioh-gyoku-windows-gamerip-2001/thumbs/cover.jpg"
+            },
+            "Banshiryuu": {
+                "url": "https://jetta.vgmtreasurechest.com/soundtracks/seihou-3-banshiryuu-windows-gamerip-2004/thumbs/Cover.png"
+            }
+        },
         "Characters": {
-            "Milia": [],
-            "Mei and Mai": [],
-            "Gates": [],
-            "Marie": [],
-            "Erich": [],
-            "Vivit": [],
-            "Morgan": [],
-            "Muse": [],
-            "Yuuta Kirishima": [],
-            "Tolia": [],
-            "Ilia": [],
-            "Felia": [],
-            "VIVIT-r": [],
-            "Hirano Sakurasaki": [],
-            "Lagunas": [],
-            "Yuitia": [],
-            "Icarus": []
+            "Milia": {},
+            "Mei and Mai": {},
+            "Gates": {},
+            "Marie": {},
+            "Erich": {},
+            "Vivit": {},
+            "Morgan": {},
+            "Muse": {},
+            "Yuuta Kirishima": {},
+            "Tolia": {},
+            "Ilia": {},
+            "Felia": {},
+            "VIVIT-r": {},
+            "Hirano Sakurasaki": {},
+            "Lagunas": {},
+            "Yuitia": {},
+            "Icarus": {}
         },
         "Extras and Endings": {
-            "SSG Extra Stage Unlock": [],
-            "BSR Extra Stage Unlock": [],
-            "SSG Ending": [],
-            "BSR Ending": []
+            "SSG Extra Stage Unlock": {},
+            "BSR Extra Stage Unlock": {},
+            "SSG Ending": {},
+            "BSR Ending": {}
         }
     }
 }

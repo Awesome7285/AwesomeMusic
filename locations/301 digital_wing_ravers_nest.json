@@ -131,5 +131,47 @@
         {"requires": "", "name": "RAVER'S NEST 13 TOHO RAVE PARTY: Asterist (THE ARCADE TRACK)", "region": "RAVER'S NEST 13 TOHO RAVE PARTY", "url": "https://lambda.vgmtreasurechest.com/soundtracks/ravers-nest-13-toho-rave-party-2023/qjypgjck/10.%20Asterist%20%28THE%20ARCADE%20TRACK%29.mp3"},
         {"requires": "", "name": "RAVER'S NEST 13 TOHO RAVE PARTY: PARAMETERS (THE ARCADE TRACK)", "region": "RAVER'S NEST 13 TOHO RAVE PARTY", "url": "https://lambda.vgmtreasurechest.com/soundtracks/ravers-nest-13-toho-rave-party-2023/topecbxk/11.%20PARAMETERS%20%28THE%20ARCADE%20TRACK%29.mp3"}
     ],
-    "items": {}
+    "items": {
+        "Album": {
+            "RAVER'S NEST 1 TOHO RAVE PARTY": {
+                "url": "https://nu.vgmtreasurechest.com/soundtracks/ravers-nest-1-toho-rave-party-2013/thumbs/00%20Front.jpg"
+            },
+            "RAVER'S NEST 2 TOHO RAVE PARTY": {
+                "url": "https://nu.vgmtreasurechest.com/soundtracks/ravers-nest-2-toho-rave-party-2013/thumbs/00%20Front.jpg"
+            },
+            "RAVER'S NEST 3 TOHO RAVE PARTY": {
+                "url": "https://jetta.vgmtreasurechest.com/soundtracks/ravers-nest-3-toho-rave-party-2014/thumbs/00%20Front.jpg"
+            },
+            "RAVER'S NEST 4 TOHO RAVE PARTY": {
+                "url": "https://lambda.vgmtreasurechest.com/soundtracks/ravers-nest-4-toho-rave-party-2015/thumbs/00%20Front.jpg"
+            },
+            "RAVER'S NEST 5 TOHO RAVE PARTY": {
+                "url": "https://lambda.vgmtreasurechest.com/soundtracks/ravers-nest-5-toho-rave-party-2015/thumbs/00%20Front.jpg"
+            },
+            "RAVER'S NEST 6 TOHO RAVE PARTY": {
+                "url": "https://jetta.vgmtreasurechest.com/soundtracks/ravers-nest-6-toho-rave-party-2016/thumbs/00%20Front.jpg"
+            },
+            "RAVER'S NEST 7 TOHO RAVE PARTY": {
+                "url": "https://jetta.vgmtreasurechest.com/soundtracks/ravers-nest-7-toho-rave-party-2016/thumbs/00%20Front.jpg"
+            },
+            "RAVER'S NEST 8 TOHO RAVE PARTY": {
+                "url": "https://nu.vgmtreasurechest.com/soundtracks/ravers-nest-8-toho-rave-party-2017/thumbs/00%20Front.jpg"
+            },
+            "RAVER'S NEST 9 TOHO RAVE PARTY": {
+                "url": "https://lambda.vgmtreasurechest.com/soundtracks/ravers-nest-9-toho-rave-party-2018/thumbs/00%20Front.jpg"
+            },
+            "RAVER'S NEST 10 TOHO RAVE PARTY": {
+                "url": "https://nu.vgmtreasurechest.com/soundtracks/ravers-nest-10-toho-rave-party-2019/thumbs/00%20Front.jpg"
+            },
+            "RAVER'S NEST 11 TOHO RAVE PARTY": {
+                "url": "https://lambda.vgmtreasurechest.com/soundtracks/ravers-nest-11-toho-rave-party-2019/thumbs/00%20Front.jpg"
+            },
+            "RAVER'S NEST 12 TOHO RAVE PARTY": {
+                "url": "https://nu.vgmtreasurechest.com/soundtracks/ravers-nest-12-toho-rave-party-2022/thumbs/00%20Front.png"
+            },
+            "RAVER'S NEST 13 TOHO RAVE PARTY": {
+                "url": "https://lambda.vgmtreasurechest.com/soundtracks/ravers-nest-13-toho-rave-party-2023/thumbs/00%20Front.png"
+            }
+        }
+    }
 }

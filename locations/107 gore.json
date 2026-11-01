@@ -170,9 +170,14 @@
         }
     ],
     "items": {
+        "Album": {
+            "Touhou Tenkarou ~ Frantically Forbidden Fruit": {
+                "url": "https://nu.vgmtreasurechest.com/soundtracks/touhou-tenkarou-frantically-forbidden-fruit-windows-gamerip-2017/thumbs/front.png"
+            }
+        },
         "Extras and Endings": {
-            "FFF Extra Stage Unlock": [],
-            "FFF Ending": []
+            "FFF Extra Stage Unlock": {},
+            "FFF Ending": {}
         }
     }
 }

@@ -779,61 +779,75 @@
         }
     ],
     "items": {
+        "Album": {
+            "Len'en Mugenri ~ Evanescent Existence": {
+                "url": "https://jetta.vgmtreasurechest.com/soundtracks/len-en-mugenri-evanescent-existence-windows-gamerip-2013/thumbs/Cover.png"
+            },
+            "Len'en Tasouken ~ Earthen Miraculous Sword": {
+                "url": "https://jetta.vgmtreasurechest.com/soundtracks/len-en-tasouken-earthen-miraculous-sword-windows-gamerip-2013/thumbs/Len%202%20-Cover.png"
+            },
+            "Len'en Reiretsuden ~ Reactivate Majestical Imperial": {
+                "url": "https://nu.vgmtreasurechest.com/soundtracks/len-en-reiretsuden-reactivate-majestical-imperial-windows-gamerip-2014/thumbs/Len%203%20-Cover%20%281%29.png"
+            },
+            "Len'en Ten'eisenki ~ Brilliant Pagoda or Haze Castle": {
+                "url": "https://lambda.vgmtreasurechest.com/soundtracks/len-en-ten-eisenk-brilliant-pagoda-or-haze-castle-windows-gamerip-2016/thumbs/Cover.png"
+            }
+        },
         "Characters": {
-            "Yabusame Houlen": [],
-            "Tsubakura Enraku": [],
-            "Kurohebi": [],
-            "Aoji Shitodo": [],
-            "“Tsubakura Enraku”": [],
-            "Hooaka Shitodo": [],
-            "Kuroji Shitodo": [],
-            "Wilhelm von Clausewitz Halcyon HISUIMARU": [],
-            "Tsurubami Senri": [],
-            "Jun Amanomiya": [],
-            "Shou Amanomori": [],
-            "Lumen Celeritas": [],
-            "Hibaru Kokutenshi": [],
-            "Sukune Katano": [],
-            "Adagumo no Yaorochi": [],
-            "Tasouken": [],
-            "Adagumo no Saragimaru": [],
-            "Sese Kitsugai": [],
-            "Tsugumi Umatachi": [],
-            "Fujiwara no Iyozane": [],
-            "Taira no Fumikado": [],
-            "Shion": [],
-            "Tenkai Zuifeng": [],
-            "Souko Shirami": [],
-            "Mitsumo": [],
-            "Kujiru Kesa": [],
-            "Medias Moritake": [],
-            "Kaisen Azuma": [],
-            "Kunimitsu Ooya": [],
-            "Garaiya Ogata": [],
-            "Kaoru Kashiwagi": [],
-            "Para": [],
-            "Fujiwara no Shirogane no Sanra": [],
-            "Taira no Chouki": [],
-            "Ooama no Ake no Mitori": [],
-            "Suzumi Kuzu": [],
-            "Yago Ametsukana": [],
-            "Xeno a": [],
-            "Haiji Senri": [],
-            "“Tsurubami Senri”": []
+            "Yabusame Houlen": {},
+            "Tsubakura Enraku": {},
+            "Kurohebi": {},
+            "Aoji Shitodo": {},
+            "“Tsubakura Enraku”": {},
+            "Hooaka Shitodo": {},
+            "Kuroji Shitodo": {},
+            "Wilhelm von Clausewitz Halcyon HISUIMARU": {},
+            "Tsurubami Senri": {},
+            "Jun Amanomiya": {},
+            "Shou Amanomori": {},
+            "Lumen Celeritas": {},
+            "Hibaru Kokutenshi": {},
+            "Sukune Katano": {},
+            "Adagumo no Yaorochi": {},
+            "Tasouken": {},
+            "Adagumo no Saragimaru": {},
+            "Sese Kitsugai": {},
+            "Tsugumi Umatachi": {},
+            "Fujiwara no Iyozane": {},
+            "Taira no Fumikado": {},
+            "Shion": {},
+            "Tenkai Zuifeng": {},
+            "Souko Shirami": {},
+            "Mitsumo": {},
+            "Kujiru Kesa": {},
+            "Medias Moritake": {},
+            "Kaisen Azuma": {},
+            "Kunimitsu Ooya": {},
+            "Garaiya Ogata": {},
+            "Kaoru Kashiwagi": {},
+            "Para": {},
+            "Fujiwara no Shirogane no Sanra": {},
+            "Taira no Chouki": {},
+            "Ooama no Ake no Mitori": {},
+            "Suzumi Kuzu": {},
+            "Yago Ametsukana": {},
+            "Xeno a": {},
+            "Haiji Senri": {},
+            "“Tsurubami Senri”": {}
         },
         "Extras and Endings": {
-            "EE Extra Stage Unlock": [],
-            "EMS Extra Stage Unlock": [],
-            "RMI Extra Stage Unlock": [],
-            "BPoHC Extra Stage Unlock": [],
-            "EE Ending": [],
-            "EMS Ending": [],
-            "RMI Ending": [],
-            "BPoHC Ending": []
+            "EE Extra Stage Unlock": {},
+            "EMS Extra Stage Unlock": {},
+            "RMI Extra Stage Unlock": {},
+            "BPoHC Extra Stage Unlock": {},
+            "EE Ending": {},
+            "EMS Ending": {},
+            "RMI Ending": {},
+            "BPoHC Ending": {}
         },
         "Misc Progression": {
-            "Progressive Haze": [],
-            "Progressive Brilliance": []
+            "Progressive Haze": {},
+            "Progressive Brilliance": {}
         }
     }
 }

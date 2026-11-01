@@ -185,5 +185,65 @@
         {"requires": "|Suika Ibuki|", "name": "Lucky 7: Run Through The Night", "region": "Lucky 7", "url": "https://lambda.vgmtreasurechest.com/soundtracks/lucky-7-2016/xjerxklx/07.%20Run%20Through%20The%20Night.mp3"},
         {"requires": "", "name": "Lucky 7: 砂の星 (Blue Twinkle Trance Remix  -  Version 2.0)", "region": "Lucky 7", "url": "https://lambda.vgmtreasurechest.com/soundtracks/lucky-7-2016/egqlhcsh/08.%20%E7%A0%82%E3%81%AE%E6%98%9F%20%28Blue%20Twinkle%20Trance%20Remix%20%20-%20%20Version%202.0%29.mp3"}
     ],
-    "items": {}
+    "items": {
+        "Album": {
+            "Crescendo Planet": {
+                "url": "https://nu.vgmtreasurechest.com/soundtracks/crescendo-planet-2009/thumbs/00%20Front.png"
+            },
+            "Starry Presto": {
+                "url": "https://lambda.vgmtreasurechest.com/soundtracks/starry-presto-2009/thumbs/00%20Front.jpg"
+            },
+            "Heartcore Forte": {
+                "url": "https://nu.vgmtreasurechest.com/soundtracks/heartcore-forte-2010/thumbs/00%20Front.png"
+            },
+            "Ultimate Synthesis": {
+                "url": "https://nu.vgmtreasurechest.com/soundtracks/ultimate-synthesis-2010/thumbs/00%20Front.jpg"
+            },
+            "Cosmic Armonica": {
+                "url": "https://nu.vgmtreasurechest.com/soundtracks/cosmic-armonica-2010/thumbs/00%20Front.png"
+            },
+            "Aqua Trytone": {
+                "url": "https://lambda.vgmtreasurechest.com/soundtracks/aqua-trytone/00%20Front.png"
+            },
+            "Tonic Triangle": {
+                "url": "https://lambda.vgmtreasurechest.com/soundtracks/tonic-triangle-2011/thumbs/00%20Front.jpg"
+            },
+            "TOHO Cyber TRANCE RED HALOZY TRANCE COLLECTION": {
+                "url": "https://lambda.vgmtreasurechest.com/soundtracks/toho-cyber-trance-red-halozy-trance-collection-2011/thumbs/00%20Front.jpg"
+            },
+            "Future Love": {
+                "url": "https://nu.vgmtreasurechest.com/soundtracks/future-love-2012/thumbs/00%20Front.jpg"
+            },
+            "Cinematic Disc": {
+                "url": "https://nu.vgmtreasurechest.com/soundtracks/cinematic-disc-2012/thumbs/00%20Front.jpg"
+            },
+            "Snow Melody": {
+                "url": "https://nu.vgmtreasurechest.com/soundtracks/snow-melody-2012/thumbs/00%20Front.jpg"
+            },
+            "TOHO R&B HOUSE Party Vol.1": {
+                "url": "https://lambda.vgmtreasurechest.com/soundtracks/toho-rb-house-party-vol1-2013/thumbs/00%20Front.jpg"
+            },
+            "TOHO R&B HOUSE Party Vol.2": {
+                "url": "https://nu.vgmtreasurechest.com/soundtracks/toho-rb-house-party-vol2-2013/thumbs/00%20Front.jpg"
+            },
+            "TOHO R&B HOUSE Party Vol.3": {
+                "url": "https://jetta.vgmtreasurechest.com/soundtracks/toho-rb-house-party-vol3-2014/thumbs/00%20Front.jpg"
+            },
+            "Viva Evolution": {
+                "url": "https://nu.vgmtreasurechest.com/soundtracks/viva-evolution-2014/thumbs/00%20Front.jpg"
+            },
+            "864 ": {
+                "url": "https://jetta.vgmtreasurechest.com/soundtracks/864-2015/thumbs/00%20Front.jpg"
+            },
+            "Bayside Beat": {
+                "url": "https://lambda.vgmtreasurechest.com/soundtracks/bayside-beat-2015/thumbs/folder.jpg"
+            },
+            "Grand Slam": {
+                "url": "https://jetta.vgmtreasurechest.com/soundtracks/grand-slam-2016/thumbs/280px-Grand_Slam.jpg"
+            },
+            "Lucky 7": {
+                "url": "https://lambda.vgmtreasurechest.com/soundtracks/lucky-7-2016/thumbs/1.jpg"
+            }
+        }
+    }
 }

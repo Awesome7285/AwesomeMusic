@@ -317,20 +317,25 @@
         }
     ],
     "items": {
+        "Album": {
+            "Touhou Jitsuzaisou ~ Dream Logical World": {
+                "badurl": "https://lambda.vgmtreasurechest.com/soundtracks/touhou-jitsuzaisou-dream-logical-world-windows-gamerip-2022/thumbs/library_600x900_2x.jpg"
+            }
+        },
         "Characters": {
-            "Nunokae Yukimura": [],
-            "Tetsuko Yorubana": [],
-            "Acytota": [],
-            "Kiseki Amashirasagi": [],
-            "Aimi Tourouzaka": [],
-            "Miyu Aokusa": []
+            "Nunokae Yukimura": {},
+            "Tetsuko Yorubana": {},
+            "Acytota": {},
+            "Kiseki Amashirasagi": {},
+            "Aimi Tourouzaka": {},
+            "Miyu Aokusa": {}
         },
         "Extras and Endings": {
-            "DLW Extra Stage Unlock": [],
-            "DLW Ending": []
+            "DLW Extra Stage Unlock": {},
+            "DLW Ending": {}
         },
         "Misc Progression": {
-            "Aspect Shift": []
+            "Aspect Shift": {}
         }
     }
 }

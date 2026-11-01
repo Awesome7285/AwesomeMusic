@@ -530,58 +530,75 @@
         }
     ],
     "items": {
+        "Album": {
+            "Touhou Jaseishou ~ The Last Comer": {
+                "url": "https://lambda.vgmtreasurechest.com/soundtracks/touhou-jaseishou-the-last-comer-windows-gamerip-2012/thumbs/cover.jpg"
+            },
+            "Touhou Doumeijuu ~ Mystical Power Plant": {
+                "url": "https://jetta.vgmtreasurechest.com/soundtracks/touhou-mystical-power-plant-pc98-windows-gamerip-2013/thumbs/941.png"
+            },
+            "Touhou Tougenkyuu ~ Riverbed Soul Saver": {
+                "url": "https://lambda.vgmtreasurechest.com/soundtracks/touhou-tougenkyuu-riverbed-soul-saver-windows-gamerip-2014/thumbs/front.jpg"
+            },
+            "Touhou Hakujinki ~ White Names Spoiled Past": {
+                "url": "https://nu.vgmtreasurechest.com/soundtracks/touhou-hakujinki-white-names-spoiled-past-gamerip-2015/thumbs/Game%20Cover.png"
+            },
+            "Touhou Shinjutou ~ Hollow Song of Birds": {
+                "url": "https://lambda.vgmtreasurechest.com/soundtracks/touhou-shinjutou-hollow-song-of-birds-windows-gamerip-2019/thumbs/front.jpg"
+            }
+        },
         "Characters": {
-            "Marry Shepard": [],
-            "Corin Charite": [],
-            "Phiased Pescar": [],
-            "Mumumu Mikaboshi": [],
-            "Michel Sant'Angelo": [],
-            "Iesua Nazarenus": [],
-            "Elfin Mint": [],
-            "Aragami no Kusuko": [],
-            "Momo Tobikura": [],
-            "Saraka Sant'Angelo": [],
-            "Tenmu Suitokuin": [],
-            "An Yaezaki": [],
-            "Mitama Magahara": [],
-            "Riko Toone": [],
-            "Hatsuna Magatsuji": [],
-            "Ruri": [],
-            "Suitenguu no Himemiko": [],
-            "Takenouchi no Tarumi": [],
-            "Yamatoyo no Momohime": [],
-            "Yamata no Yato": [],
-            "Abe no Kiyohime": [],
-            "Minayu Okuchiri": [],
-            "Tokubi Shourokuzan": [],
-            "Shiragiku Kayano L": [],
-            "Anzu Okami": [],
-            "Koukai Okami": [],
-            "Uka Kadofuyu": [],
-            "Ranran Higami": [],
-            "Chii Shirobakama": [],
-            "Hikariko Aosagi": [],
-            "Shiran Tokujakubou": [],
-            "General Set": [],
-            "Horou Torisumi": [],
-            "Mumei Fujitsubo": []
+            "Marry Shepard": {},
+            "Corin Charite": {},
+            "Phiased Pescar": {},
+            "Mumumu Mikaboshi": {},
+            "Michel Sant'Angelo": {},
+            "Iesua Nazarenus": {},
+            "Elfin Mint": {},
+            "Aragami no Kusuko": {},
+            "Momo Tobikura": {},
+            "Saraka Sant'Angelo": {},
+            "Tenmu Suitokuin": {},
+            "An Yaezaki": {},
+            "Mitama Magahara": {},
+            "Riko Toone": {},
+            "Hatsuna Magatsuji": {},
+            "Ruri": {},
+            "Suitenguu no Himemiko": {},
+            "Takenouchi no Tarumi": {},
+            "Yamatoyo no Momohime": {},
+            "Yamata no Yato": {},
+            "Abe no Kiyohime": {},
+            "Minayu Okuchiri": {},
+            "Tokubi Shourokuzan": {},
+            "Shiragiku Kayano L": {},
+            "Anzu Okami": {},
+            "Koukai Okami": {},
+            "Uka Kadofuyu": {},
+            "Ranran Higami": {},
+            "Chii Shirobakama": {},
+            "Hikariko Aosagi": {},
+            "Shiran Tokujakubou": {},
+            "General Set": {},
+            "Horou Torisumi": {},
+            "Mumei Fujitsubo": {}
         },
         "Extras and Endings": {
-            "TLC Extra Stage Unlock": [],
-            "MPP Extra Stage Unlock": [],
-            "RSS Extra Stage Unlock": [],
-            "WNSP Extra Stage Unlock": [],
-            "HSoB Extra Stage Unlock": [],
-            "HSoB Easy Extra Stage Unlock": [],
-            "TLC Ending": [],
-            "MPP Ending": [],
-            "RSS Ending": [],
-            "WNSP Ending": [],
-            "HSoB Ending": []
+            "TLC Extra Stage Unlock": {},
+            "MPP Extra Stage Unlock": {},
+            "RSS Extra Stage Unlock": {},
+            "WNSP Extra Stage Unlock": {},
+            "HSoB Extra Stage Unlock": {},
+            "HSoB Easy Extra Stage Unlock": {},
+            "TLC Ending": {},
+            "MPP Ending": {},
+            "RSS Ending": {},
+            "WNSP Ending": {},
+            "HSoB Ending": {}
         },
         "Misc Progression": {
-            "Lap 2": [],
-            "Logical Practice": []
+            "Lap 2": {},
+            "Logical Practice": {}
         }
     }
 }

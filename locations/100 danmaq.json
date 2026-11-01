@@ -338,17 +338,25 @@
         }
     ],
     "items": {
+        "Album": {
+            "Touhou Shifuujou ...the Alternative Age": {
+                "url": "https://lambda.vgmtreasurechest.com/soundtracks/touhou-shifuujou-the-alternative-age-windows-gamerip-2005/thumbs/ThTAAcover2.png"
+            },
+            "Touhou Mutsuigeki ~ Concealed the Conclusion": {
+                "url": "https://nu.vgmtreasurechest.com/soundtracks/touhou-mutsuigeki-concealed-the-conclusion-ost/thumbs/Cover.jpg"
+            }
+        },
         "Characters": {
-            "Layla Prismriver": []
+            "Layla Prismriver": {}
         },
         "Extras and Endings": {
-            "tAA Extra Stage Unlock": [],
-            "CtC Extra Stage Unlock": [],
-            "tAA Ending": [],
-            "CtC Ending": []
+            "tAA Extra Stage Unlock": {},
+            "CtC Extra Stage Unlock": {},
+            "tAA Ending": {},
+            "CtC Ending": {}
         },
         "Misc Progression": {
-            "Time": []
+            "Time": {}
         }
     }
 }

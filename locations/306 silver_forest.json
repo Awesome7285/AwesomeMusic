@@ -448,11 +448,160 @@
 		{"requires": "|Cirno| AND |Remilia Scarlet| AND |Patchouli Knowledge|", "name": "White Cleric: もふもフレンズ full", "region": "White Cleric", "url": "https://lambda.vgmtreasurechest.com/soundtracks/white-cleric-2017/uauurbfv/08.%20%E3%82%82%E3%81%B5%E3%82%82%E3%83%95%E3%83%AC%E3%83%B3%E3%82%BA%20full.mp3"}
 	],
 	"items": {
+		"Album": {
+            "Cherry Phantasm": {
+                "url": "https://jetta.vgmtreasurechest.com/soundtracks/cherry-phantasm-2006/thumbs/00%20Front.jpg"
+            },
+            "Touhou Enbukyoku": {
+                "url": "https://jetta.vgmtreasurechest.com/soundtracks/touhou-enbukyoku-2006/thumbs/00%20Front.jpg"
+            },
+            "Touhou Sougentou": {
+                "url": "https://jetta.vgmtreasurechest.com/soundtracks/touhou-sougentou-2006/thumbs/00%20Front.jpg"
+            },
+            "GRAZE": {
+                "url": "https://lambda.vgmtreasurechest.com/soundtracks/graze-2007/thumbs/00%20Booklet%20Front.jpg"
+            },
+            "Touhou Suisougaku": {
+                "url": "https://lambda.vgmtreasurechest.com/soundtracks/touhou-suisougaku-2007/thumbs/00%20Front.jpg"
+            },
+            "Phantasm Brigade": {
+                "url": "https://lambda.vgmtreasurechest.com/soundtracks/phantasm-brigade-2007/thumbs/00%20Booklet%20Front.jpg"
+            },
+            "Touhou Tsukimigaoka": {
+                "url": "https://lambda.vgmtreasurechest.com/soundtracks/touhou-tsukimigaoka-2007/thumbs/00%20Front.jpg"
+            },
+            "Sentence": {
+                "url": "https://nu.vgmtreasurechest.com/soundtracks/sentence-2007/thumbs/00%20Front.jpg"
+            },
+            "Touhou Soutenka": {
+                "url": "https://nu.vgmtreasurechest.com/soundtracks/touhou-soutenka-2007/thumbs/00%20Front.jpg"
+            },
+            "Touhou Yuugensou": {
+                "url": "https://jetta.vgmtreasurechest.com/soundtracks/touhou-yuugensou-2008/thumbs/00%20Booklet%20Front.jpg"
+            },
+            "Reincarnation": {
+                "url": "https://nu.vgmtreasurechest.com/soundtracks/reincarnation-sfnc0011-2008/thumbs/00%20Booklet%20Front.jpg"
+            },
+            "Rebirth (Silver Forest)": {
+                "url": "https://jetta.vgmtreasurechest.com/soundtracks/rebirth-2008/thumbs/00%20Front.jpg"
+            },
+            "Shiro Usagi": {
+                "url": "https://jetta.vgmtreasurechest.com/soundtracks/shiro-usagi-2008/thumbs/00%20Front.jpg"
+            },
+            "Eternal Paradigm": {
+                "url": "https://jetta.vgmtreasurechest.com/soundtracks/eternal-paradigm-2008/thumbs/00%20Booklet%20Front.jpg"
+            },
+            "Lunatic Beat": {
+                "url": "https://lambda.vgmtreasurechest.com/soundtracks/lunatic-beat-2009/thumbs/00%20Booklet%20Front.jpg"
+            },
+            "Sacred Girl's Sacrifice": {
+                "url": "https://lambda.vgmtreasurechest.com/soundtracks/sacred-girls-sacrifice-2009/thumbs/00%20Booklet%20Front.jpg"
+            },
+            "Touhou Musou Renga": {
+                "url": "https://lambda.vgmtreasurechest.com/soundtracks/touhou-musou-renga-2009/thumbs/00%20Front.jpg"
+            },
+            "Touhou Nostalgia": {
+                "url": "https://nu.vgmtreasurechest.com/soundtracks/touhou-nostalgia-2009/thumbs/00%20Front.jpg"
+            },
+            "Touhou Hifuu Majutsu": {
+                "url": "https://nu.vgmtreasurechest.com/soundtracks/touhou-hifuu-majutsu-2009/thumbs/00%20Front.jpg"
+            },
+            "Touhou Starry-Eyed": {
+                "url": "https://nu.vgmtreasurechest.com/soundtracks/touhou-starryeyed-2009/thumbs/00%20Front.jpg"
+            },
+            "Twilight Shooting Star": {
+                "url": "https://jetta.vgmtreasurechest.com/soundtracks/twilight-shooting-star-2010/thumbs/00%20Front.png"
+            },
+            "Touhou Dengeki Hadou Kyuu": {
+                "url": "https://jetta.vgmtreasurechest.com/soundtracks/touhou-dengeki-hadou-kyuu-2010/thumbs/00%20Front.jpg"
+            },
+            "Gekkou Ranbu": {
+                "url": "https://jetta.vgmtreasurechest.com/soundtracks/gekkou-ranbu-2010/thumbs/00%20Front.jpg"
+            },
+            "Akaki Tsuki no Aria": {
+                "url": "https://jetta.vgmtreasurechest.com/soundtracks/akaki-tsuki-no-aria-2010/thumbs/00%20Front.jpg"
+            },
+            "Eternal Night Rondo": {
+                "url": "https://lambda.vgmtreasurechest.com/soundtracks/eternal-night-rondo-2010/thumbs/00%20Front.jpg"
+            },
+            "Eternal Night Rondo II": {
+                "url": "https://nu.vgmtreasurechest.com/soundtracks/eternal-night-rondo-ii-2011/thumbs/00%20Front.jpg"
+            },
+            "Ancient Blue": {
+                "url": "https://lambda.vgmtreasurechest.com/soundtracks/ancient-blue-2011/thumbs/00%20Front.jpg"
+            },
+            "Vermillion Summer": {
+                "url": "https://nu.vgmtreasurechest.com/soundtracks/vermillion-summer-2011/thumbs/00%20Front.jpg"
+            },
+            "Ayashiki Yume no Rhapsody": {
+                "url": "https://nu.vgmtreasurechest.com/soundtracks/ayashiki-yume-no-rhapsody-2011/thumbs/00%20Front.jpg"
+            },
+            "SAN-ZEN-SE-KAI": {
+                "url": "https://jetta.vgmtreasurechest.com/soundtracks/sanzensekai-2011/thumbs/00%20Front.jpg"
+            },
+            "Aoki Tsuki no Requiem": {
+                "url": "https://jetta.vgmtreasurechest.com/soundtracks/aoki-tsuki-no-requiem-2011/thumbs/00%20Front.jpg"
+            },
+            "Kami no Kanadeshi Serenade": {
+                "url": "https://jetta.vgmtreasurechest.com/soundtracks/kami-no-kanadeshi-serenade-2011/thumbs/00%20Front.jpg"
+            },
+            "Silver Forest 2006-2012 BEST I": {
+                "url": "https://jetta.vgmtreasurechest.com/soundtracks/silver-forest-20062012-best-i-2012/thumbs/00%20Front.jpg"
+            },
+            "Silver Forest 2006-2012 BEST II": {
+                "url": "https://lambda.vgmtreasurechest.com/soundtracks/silver-forest-20062012-best-ii-2012/thumbs/00%20Front.jpg"
+            },
+            "Silver Fortune": {
+                "url": "https://lambda.vgmtreasurechest.com/soundtracks/silver-fortune-2013/thumbs/00%20Front%20small.png"
+            },
+            "Setsuna Over Drive": {
+                "url": "https://lambda.vgmtreasurechest.com/soundtracks/setsuna-over-drive-2014/thumbs/00%20Front%20small.jpg"
+            },
+            "Kanjou Execution": {
+                "url": "https://nu.vgmtreasurechest.com/soundtracks/kanjou-execution-2014/thumbs/00%20Front.jpg"
+            },
+            "蒼天Explorer": {
+                "url": "https://nu.vgmtreasurechest.com/soundtracks/%E8%92%BC%E5%A4%A9explorer-2014/thumbs/folder.jpg"
+            },
+            "闇の魔法結界": {
+                "url": "https://nu.vgmtreasurechest.com/soundtracks/%E9%97%87%E3%81%AE%E9%AD%94%E6%B3%95%E7%B5%90%E7%95%8C-2014/thumbs/folder.jpg"
+            },
+            "月の魔法少女": {
+                "url": "https://jetta.vgmtreasurechest.com/soundtracks/%E6%9C%88%E3%81%AE%E9%AD%94%E6%B3%95%E5%B0%91%E5%A5%B3-2015/thumbs/folder.jpg"
+            },
+            "舞い降りた神の子": {
+                "url": "https://jetta.vgmtreasurechest.com/soundtracks/%E8%88%9E%E3%81%84%E9%99%8D%E3%82%8A%E3%81%9F%E7%A5%9E%E3%81%AE%E5%AD%90-2015/thumbs/folder.jpg"
+            },
+            "秋霜烈日": {
+                "url": "https://jetta.vgmtreasurechest.com/soundtracks/%E7%A7%8B%E9%9C%9C%E7%83%88%E6%97%A5-2015/thumbs/CD.jpg"
+            },
+            "東方Fire&Ice": {
+                "url": "https://lambda.vgmtreasurechest.com/soundtracks/%E6%9D%B1%E6%96%B9fireice-2015/thumbs/folder.jpg"
+            },
+            "Sweet little Lily": {
+                "url": "https://nu.vgmtreasurechest.com/soundtracks/sweet-little-lily-2016/thumbs/00%20Front.jpg"
+            },
+            "Reversal Process": {
+                "url": "https://nu.vgmtreasurechest.com/soundtracks/reversal-process-2016/thumbs/artwork.jpg"
+            },
+            "your precious Trick Star": {
+                "url": "https://nu.vgmtreasurechest.com/soundtracks/your-precious-trick-star-2016/thumbs/folder.jpg"
+            },
+            "とうほうインスパイア": {
+                "url": "https://jetta.vgmtreasurechest.com/soundtracks/%E3%81%A8%E3%81%86%E3%81%BB%E3%81%86%E3%82%A4%E3%83%B3%E3%82%B9%E3%83%91%E3%82%A4%E3%82%A2-2017/thumbs/folder.jpg"
+            },
+            "chill out vacation": {
+                "url": "https://jetta.vgmtreasurechest.com/soundtracks/chill-out-vacation-2017/thumbs/00%20Front%20small.jpg"
+            },
+            "White Cleric": {
+                "url": "https://lambda.vgmtreasurechest.com/soundtracks/white-cleric-2017/thumbs/folder.jpg"
+            }
+        },
 		"Misc Progression": {
-			"Air": [],
-			"Higurashi When They Cry": [],
-			"Fly Me to the Moon (In Other Words)": [],
-			"Snow Halation": []
+			"Air": {},
+			"Higurashi When They Cry": {},
+			"Fly Me to the Moon (In Other Words)": {},
+			"Snow Halation": {}
 		}
 	}
 }

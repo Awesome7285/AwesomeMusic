@@ -176,21 +176,26 @@
         }
     ],
     "items": {
+        "Album": {
+            "Touhou Chouseisho ~ Sapphire Panlogism": {
+                "url": "https://jetta.vgmtreasurechest.com/soundtracks/touhou-chouseisho-sapphire-panlogism-2021/thumbs/Cover.png"
+            }
+        },
         "Characters": {
-            "Azure Swirl": [],
-            "Sakkagumi Yamomo": [],
-            "Saga Kuramu": [],
-            "Umehime Kazarashi": [],
-            "Padma Raksasa": [],
-            "Ummu Tzumazaru": [],
-            "Nusakoro Pandora": [],
-            "Yachimata no Akiwaza": []
+            "Azure Swirl": {},
+            "Sakkagumi Yamomo": {},
+            "Saga Kuramu": {},
+            "Umehime Kazarashi": {},
+            "Padma Raksasa": {},
+            "Ummu Tzumazaru": {},
+            "Nusakoro Pandora": {},
+            "Yachimata no Akiwaza": {}
         },
         "Extras and Endings": {
-            "SP Extra Stage Unlock": [],
-            "SP Bad Ending": [],
-            "SP Good Ending": [],
-            "SP Bonus Unlocks": []
+            "SP Extra Stage Unlock": {},
+            "SP Bad Ending": {},
+            "SP Good Ending": {},
+            "SP Bonus Unlocks": {}
         }
     }
 }

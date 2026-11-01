@@ -248,7 +248,7 @@
         {
             "requires": "",
             "name": "PoDD: Eternal Full Moon (88Pro)",
-            "region": "Phantasmagoria of Dim.Dream",
+            "region": "Phantasmagoria of Dim.Dream (MIDI Arranges)",
             "url": "https://jetta.vgmtreasurechest.com/soundtracks/touhou-zun-s-sc-88pro-midis/cusetfvn/06.%20ZUN%27s%20PC-98%20Touhou%20MIDI%20arrangements%20-%2013%20~%20Eternal%20Full%20Moon.mp3",
             "original_name": "永遠の満月"
         },
@@ -464,9 +464,19 @@
         }
     ],
     "items": {
+        "Album": {
+            "Torte Le Magic": {},
+            "Shuusou Gyoku (MIDI Arranges)": {},
+            "Highly Responsive to Prayers (MIDI Arranges)": {},
+            "Story of Eastern Wonderland (MIDI Arranges)": {},
+            "Phantasmagoria of Dim.Dream (MIDI Arranges)": {},
+            "Lotus Land Story (MIDI Arranges)": {},
+            "Mystic Square (MIDI Arranges)": {},
+            "ZUN's Strange Works": {}
+        },
         "Characters": {
-            "Chou": [],
-            "Cointreau": []
+            "Chou": {},
+            "Cointreau": {}
         }
     }
 }

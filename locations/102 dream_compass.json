@@ -296,26 +296,34 @@
         }
     ],
     "items": {
+        "Album": {
+            "Touhou Rakuryuusei ~ The Shattered Sky": {
+                "url": "https://jetta.vgmtreasurechest.com/soundtracks/touhou-rakuryuusei-shattered-sky-ost/thumbs/cover%20alt.jpg"
+            },
+            "Touhou Saikotan ~ Servants of Harvest Wish": {
+                "url": "https://lambda.vgmtreasurechest.com/soundtracks/touhou-saikotan-servants-of-harvest-wish-soundtrack-2020/thumbs/00%20Front.jpg"
+            }
+        },
         "Characters": {
-            "Sayuri Katsuki": [],
-            "Akami Kurotsuka": [],
-            "Ryouko": [],
-            "Soujouko": [],
-            "Tsukiko Seida": [],
-            "Suzuka Mikami": [],
-            "Kagemo": [],
-            "Yukiko Tsubaki": [],
-            "Meimei": [],
-            "Saruta Mitama": [],
-            "Uzume Mitama": [],
-            "Touko Ugajin": [],
-            "Shirigai no Mamo": []
+            "Sayuri Katsuki": {},
+            "Akami Kurotsuka": {},
+            "Ryouko": {},
+            "Soujouko": {},
+            "Tsukiko Seida": {},
+            "Suzuka Mikami": {},
+            "Kagemo": {},
+            "Yukiko Tsubaki": {},
+            "Meimei": {},
+            "Saruta Mitama": {},
+            "Uzume Mitama": {},
+            "Touko Ugajin": {},
+            "Shirigai no Mamo": {}
         },
         "Extras and Endings": {
-            "TSS Extra Stage Unlock": [],
-            "SoHW Extra Stage Unlock": [],
-            "TSS Ending": [],
-            "SoHW Ending": []
+            "TSS Extra Stage Unlock": {},
+            "SoHW Extra Stage Unlock": {},
+            "TSS Ending": {},
+            "SoHW Ending": {}
         }
     }
 }

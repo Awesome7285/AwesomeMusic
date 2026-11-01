@@ -369,5 +369,125 @@
 		{"requires": "", "name": "Koi Tora -KOIIRO MASTER TRANCE 04-: Stray Star (Overhead Champion Remix)", "region": "Koi Tora -KOIIRO MASTER TRANCE 04-", "url": "https://jetta.vgmtreasurechest.com/soundtracks/koi-tora-koiiro-master-trance-04-2025/okhfhsto/06.%20Overhead%20Champion%20-%20Stray%20Star%20%28Overhead%20Champion%20Remix%29.mp3"},
 		{"requires": "|Rumia|", "name": "Koi Tora -KOIIRO MASTER TRANCE 04-: 夜乃風車 (Tracy Remix Extended Ver.)", "region": "Koi Tora -KOIIRO MASTER TRANCE 04-", "url": "https://jetta.vgmtreasurechest.com/soundtracks/koi-tora-koiiro-master-trance-04-2025/piwgrpbk/07.%20Shouya%20Namai%20-%20%E5%A4%9C%E4%B9%83%E9%A2%A8%E8%BB%8A%20%28Tracy%20Remix%20Extended%20Ver.%29.mp3"}
 	],
-	"items": {}
+	"items": {
+		"Album": {
+            "Artifact": {
+                "url": "https://jetta.vgmtreasurechest.com/soundtracks/artifact-2010/thumbs/00%20Front%20digital.jpg"
+            },
+            "Little Prayer": {
+                "url": "https://lambda.vgmtreasurechest.com/soundtracks/little-prayer-2011/thumbs/00%20Front.jpg"
+            },
+            "Catastrophe Eve": {
+                "url": "https://nu.vgmtreasurechest.com/soundtracks/catastrophe-eve-2011/thumbs/00%20Front.jpg"
+            },
+            "Helius Aggregation": {
+                "url": "https://jetta.vgmtreasurechest.com/soundtracks/helius-aggregation-2011/thumbs/00%20Front.jpg"
+            },
+            "Dilemmatic Sorcery": {
+                "url": "https://nu.vgmtreasurechest.com/soundtracks/dilemmatic-sorcery-2012/thumbs/00%20Front%20digital.png"
+            },
+            "Unlogical Trick": {
+                "url": "https://jetta.vgmtreasurechest.com/soundtracks/unlogical-trick-2012/thumbs/00%20Front.jpg"
+            },
+            "Emotionally Resonance": {
+                "url": "https://jetta.vgmtreasurechest.com/soundtracks/emotionally-resonance-2012/thumbs/00%20Front%20digital.png"
+            },
+            "Radical Destruction": {
+                "url": "https://lambda.vgmtreasurechest.com/soundtracks/radical-destruction-2013/thumbs/00%20Front.jpg"
+            },
+            "Infinity Asterisk": {
+                "url": "https://nu.vgmtreasurechest.com/soundtracks/infinity-asterisk-2013/thumbs/00%20Front%20digital.jpg"
+            },
+            "Blooming Daydream": {
+                "url": "https://lambda.vgmtreasurechest.com/soundtracks/blooming-daydream-2014/thumbs/00%20Front.jpg"
+            },
+            "Crevice of Darkness": {
+                "url": "https://lambda.vgmtreasurechest.com/soundtracks/crevice-of-darkness-2014/thumbs/00%20Frontpg.jpg"
+            },
+            "Unrequited Hearts": {
+                "url": "https://nu.vgmtreasurechest.com/soundtracks/unrequited-hearts-2014/thumbs/00%20Front%20digital.jpg"
+            },
+            "Cleave Ambivalence": {
+                "url": "https://lambda.vgmtreasurechest.com/soundtracks/cleave-ambivalence-2015/thumbs/00%20Front%20small.jpg"
+            },
+            "Trip to Fairyland": {
+                "url": "https://nu.vgmtreasurechest.com/soundtracks/trip-to-fairyland-2015/thumbs/00%20Front.jpg"
+            },
+            "Everlasting Conviction": {
+                "url": "https://jetta.vgmtreasurechest.com/soundtracks/everlasting-conviction-2016/thumbs/00%20Front.jpg"
+            },
+            "Sparkling Alteration": {
+                "url": "https://jetta.vgmtreasurechest.com/soundtracks/sparkling-alteration-2016/thumbs/00%20Front%20digital.jpg"
+            },
+            "Brilliant Story": {
+                "url": "https://lambda.vgmtreasurechest.com/soundtracks/brilliant-story-2016/thumbs/00%20Front%20digital.jpg"
+            },
+            "Resonate Anthems": {
+                "url": "https://lambda.vgmtreasurechest.com/soundtracks/resonate-anthems-2017/thumbs/00%20Front%20digital.jpg"
+            },
+            "Sweetest Paranoia": {
+                "url": "https://jetta.vgmtreasurechest.com/soundtracks/sweetest-paranoia-2017/thumbs/00%20Front%20digital.jpg"
+            },
+            "My Dearest": {
+                "url": "https://jetta.vgmtreasurechest.com/soundtracks/my-dearest-2017/thumbs/00%20Front%20digital.jpg"
+            },
+            "Addicted Moon": {
+                "url": "https://nu.vgmtreasurechest.com/soundtracks/addicted-moon-2018/thumbs/00%20Front%20digital.jpg"
+            },
+            "Grateful Days": {
+                "url": "https://jetta.vgmtreasurechest.com/soundtracks/grateful-days-2018/thumbs/00%20Front.jpg"
+            },
+            "Reconnected Anthems": {
+                "url": "https://lambda.vgmtreasurechest.com/soundtracks/reconnected-anthems-2018/thumbs/00%20Front.jpg"
+            },
+            "Farewell Flower": {
+                "url": "https://lambda.vgmtreasurechest.com/soundtracks/farewell-flower-2018/thumbs/00%20Front.jpg"
+            },
+            "NIGHT SKYWALKER": {
+                "url": "https://nu.vgmtreasurechest.com/soundtracks/night-skywalker-2019/thumbs/00%20Front.jpg"
+            },
+            "Shining Destiny": {
+                "url": "https://nu.vgmtreasurechest.com/soundtracks/shining-destiny-2019/thumbs/00%20Front%20digital.jpg"
+            },
+            "Disorderly Love": {
+                "url": "https://jetta.vgmtreasurechest.com/soundtracks/disorderly-love-2019/thumbs/00%20Front%20digital.jpg"
+            },
+            "Mysterious Spirit": {
+                "url": "https://lambda.vgmtreasurechest.com/soundtracks/mysterious-spirit-2019/thumbs/00%20Front.png"
+            },
+            "Hopeful Journey": {
+                "url": "https://jetta.vgmtreasurechest.com/soundtracks/hopeful-journey-2021/thumbs/00%20Front%20digital.jpg"
+            },
+            "Beyond the Rainbow": {
+                "url": "https://nu.vgmtreasurechest.com/soundtracks/beyond-the-rainbow-2021/thumbs/00%20Front.png"
+            },
+            "Adventurous Journey": {
+                "url": "https://jetta.vgmtreasurechest.com/soundtracks/adventurous-journey-2022/thumbs/00%20Front.jpg"
+            },
+            "Koi Tora -KOIIRO MASTER TRANCE-": {
+                "url": "https://nu.vgmtreasurechest.com/soundtracks/amrc0066-%E6%81%8B%E3%83%88%E3%83%A9-koiiro-master-trance-2022/thumbs/00%20Front.jpg"
+            },
+            "Solitary Daybreak": {
+                "url": "https://jetta.vgmtreasurechest.com/soundtracks/solitary-daybreak-2022/thumbs/00%20Front.jpg"
+            },
+            "Koi Tora -KOIIRO MASTER TRANCE 02-": {
+                "url": "https://jetta.vgmtreasurechest.com/soundtracks/koi-tora-koiiro-master-trance-02-2023/thumbs/00%20Front.jpg"
+            },
+            "Infinity Blossom": {
+                "url": "https://lambda.vgmtreasurechest.com/soundtracks/infinity-blossom-2023/thumbs/00%20Front.jpg"
+            },
+            "Legendary Romance": {
+                "url": "https://jetta.vgmtreasurechest.com/soundtracks/legendary-romance-2023/thumbs/folder.jpg"
+            },
+            "Next Sanctuary": {
+                "url": "https://nu.vgmtreasurechest.com/soundtracks/next-sanctuary-2023/thumbs/00%20Front.jpg"
+            },
+            "Koi Tora -KOIIRO MASTER TRANCE 03-": {
+                "url": "https://jetta.vgmtreasurechest.com/soundtracks/koi-tora-koiiro-master-trance-03-2024/thumbs/00%20Front.jpg"
+            },
+            "Koi Tora -KOIIRO MASTER TRANCE 04-": {
+                "url": "https://jetta.vgmtreasurechest.com/soundtracks/koi-tora-koiiro-master-trance-04-2025/thumbs/00%20Front.jpg"
+            }
+        }
+	}
 }

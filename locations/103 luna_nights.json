@@ -158,9 +158,14 @@
         }
     ],
     "items": {
+        "Album": {
+            "Touhou Luna Nights": {
+                "url": "https://lambda.vgmtreasurechest.com/soundtracks/touhou-luna-nights-original-soundtrack/thumbs/00%20Front.jpg"
+            }
+        },
         "Extras and Endings": {
-            "Luna Nights Extra Stage Unlock": [],
-            "Luna Nights Ending": []
+            "Luna Nights Extra Stage Unlock": {},
+            "Luna Nights Ending": {}
         }
     }
 }

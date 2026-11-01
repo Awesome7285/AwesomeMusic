@@ -56,8 +56,13 @@
         }
     ],
     "items": {
+        "Album": {
+            "Click the Bart v1.1 Soundtrack": {
+                "url": "https://jetta.vgmtreasurechest.com/soundtracks/click-the-bart-v1.1-soundtrack-2024/thumbs/Soundtrack%20Cover.png"
+            }
+        },
         "Characters": {
-            "Bart Simpson": []
+            "Bart Simpson": {}
         }
     }
 }

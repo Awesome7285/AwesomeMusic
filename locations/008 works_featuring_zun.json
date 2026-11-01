@@ -1086,19 +1086,57 @@
         }
     ],
     "items": {
+        "Album": {
+            "Touhou Shikoubana ~ Seasonal Dream Vision": {
+                "url": "https://lambda.vgmtreasurechest.com/soundtracks/touhou-shikoubana-seasonal-dream-vision-2005/thumbs/00%20Front.jpg"
+            },
+            "Samidare": {
+                "url": "https://lambda.vgmtreasurechest.com/soundtracks/samidare-original-soundtrack-2009/thumbs/00%20Front.jpg"
+            },
+            "Tasogare Sakaba ~Uwabami Breakers~": {
+                "url": "https://jetta.vgmtreasurechest.com/soundtracks/twilight-bar-room-uwabami-breakers-windows-gamerip-2007/thumbs/UB.png"
+            },
+            "Touhou Unreal Mahjong": {
+                "url": "https://vgmtreasurechest.com/soundtracks/touhou-unreal-mahjong-original-soundtrack-2009/thumbs/00%20Front.jpg"
+            },
+            "Shinma Touki Den ~ Magus in Mystic Geometries": {
+                "url": "https://lambda.vgmtreasurechest.com/soundtracks/shinma-touki-den-magus-in-mystic-geometries-windows-gamerip-2008/thumbs/cover.jpg"
+            },
+            "Cradle - Touhou Gengaku Shiten CD1": {
+                "url": "https://jetta.vgmtreasurechest.com/soundtracks/cradle-touhou-gengaku-shiten-2004/thumbs/06%20Disc%201.jpg"
+            },
+            "Cradle - Touhou Gengaku Shiten CD2": {
+                "url": "https://jetta.vgmtreasurechest.com/soundtracks/cradle-touhou-gengaku-shiten-2004/thumbs/07%20Disc%202.jpg"
+            },
+            "8BIT MUSIC POWER FINAL": {
+                "url": "https://jetta.vgmtreasurechest.com/soundtracks/8bit-music-power-final-riki-collection/thumbs/00%20Front.jpg"
+            },
+            "Touhou Sound Fireworks Disc 1": {
+                "url": "https://jetta.vgmtreasurechest.com/soundtracks/touhou-sound-fireworks-2021/thumbs/00%20Front%20Digital.png"
+            },
+            "Touhou Sound Fireworks Disc 2": {
+                "url": "https://jetta.vgmtreasurechest.com/soundtracks/touhou-sound-fireworks-2021/thumbs/00%20Front%20Digital.png"
+            },
+            "Touhou Sound Fireworks Disc 3": {
+                "url": "https://jetta.vgmtreasurechest.com/soundtracks/touhou-sound-fireworks-2021/thumbs/00%20Front%20Digital.png"
+            },
+            "Touhou Sound Fireworks Disc 4": {
+                "url": "https://jetta.vgmtreasurechest.com/soundtracks/touhou-sound-fireworks-2021/thumbs/00%20Front%20Digital.png"
+            }
+        },
         "Characters": {
-            "Rinnosuke Morichika": [],
-            "Tatsumi Hakkaisan": [],
-            "Rumi Arie": [],
-            "Amakasu Barley Tenji": [],
-            "Sylphid": [],
-            "Anareta": [],
-            "SMD-00x": []
+            "Rinnosuke Morichika": {},
+            "Tatsumi Hakkaisan": {},
+            "Rumi Arie": {},
+            "Amakasu Barley Tenji": {},
+            "Sylphid": {},
+            "Anareta": {},
+            "SMD-00x": {}
         },
         "Extras and Endings": {
-            "Samidare Extra Stage Unlock": [],
-            "Samidare Ending": [],
-            "UB Ending": []
+            "Samidare Extra Stage Unlock": {},
+            "Samidare Ending": {},
+            "UB Ending": {}
         }
     }
 }

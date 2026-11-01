@@ -173,5 +173,98 @@
         {"requires": "|Sakuya Izayoi|", "name": "TOHO EURO TRIGGER VOL.22: 月夜のファンタジア", "region": "TOHO EURO TRIGGER VOL.22", "url": "https://lambda.vgmtreasurechest.com/soundtracks/toho-euro-trigger-vol-22-2023/jdsaciiq/05.%20%E6%9C%88%E5%A4%9C%E3%81%AE%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%B8%E3%82%A2.mp3"},
         {"requires": "", "name": "TOHO EURO TRIGGER VOL.22: Cylinder Fox", "region": "TOHO EURO TRIGGER VOL.22", "url": "https://lambda.vgmtreasurechest.com/soundtracks/toho-euro-trigger-vol-22-2023/gkerxmpq/06.%20Cylinder%20Fox.mp3"}
     ],
-    "items": {}
+    "items": {
+        "Album": {
+            "CRAZY BEAT SHOCK!!": {
+                "url": "https://lambda.vgmtreasurechest.com/soundtracks/crazy-beat-shock-2015/thumbs/folder.jpg"
+            },
+            "BURNING DESIRE": {
+                "url": "https://nu.vgmtreasurechest.com/soundtracks/burning-desire-2016/thumbs/600px-K2E-006.jpg"
+            },
+            "REVERSAL OF MOON": {
+                "url": "https://nu.vgmtreasurechest.com/soundtracks/reversal-of-moon-2016/thumbs/ab67616d0000b273f2f397a82e1c9bced1d530ce.jpg"
+            },
+            "Pandora's Box": {
+                "url": "https://jetta.vgmtreasurechest.com/soundtracks/pandoras-box-2017/thumbs/500x500.jpg"
+            },
+            "abyss Gatekeeper": {
+                "url": "https://nu.vgmtreasurechest.com/soundtracks/abyss-gatekeeper-2017/thumbs/folder.jpg"
+            },
+            "Scarlet Grace": {
+                "url": "https://nu.vgmtreasurechest.com/soundtracks/scarlet-grace-2018/thumbs/folder.jpg"
+            },
+            "Black Magic Girl": {
+                "url": "https://nu.vgmtreasurechest.com/soundtracks/black-magic-girl-2018/thumbs/folder.jpg"
+            },
+            "deadly poison": {
+                "url": "https://jetta.vgmtreasurechest.com/soundtracks/deadly-poison-2018/thumbs/folder.jpg"
+            },
+            "TOHO EURO TRIGGER VOL.01": {
+                "url": "https://jetta.vgmtreasurechest.com/soundtracks/toho-euro-trigger-vol01-2019/thumbs/folder.jpg"
+            },
+            "TOHO EURO TRIGGER VOL.02": {
+                "url": "https://jetta.vgmtreasurechest.com/soundtracks/toho-euro-trigger-vol02-2019/thumbs/folder.jpg"
+            },
+            "TOHO EURO TRIGGER VOL.03 NON-STOP BEST": {
+                "url": "https://jetta.vgmtreasurechest.com/soundtracks/toho-euro-trigger-vol03-nonstop-best-2019/thumbs/folder.jpg"
+            },
+            "TOHO EURO TRIGGER VOL.04": {
+                "url": "https://lambda.vgmtreasurechest.com/soundtracks/toho-euro-trigger-vol04-2019/thumbs/folder.jpg"
+            },
+            "TOHO EURO TRIGGER VOL.05": {
+                "url": "https://lambda.vgmtreasurechest.com/soundtracks/toho-euro-trigger-vol05-2020/thumbs/folder.jpg"
+            },
+            "TOHO EURO TRIGGER VOL.06 Non-Stop BEST": {
+                "url": "https://lambda.vgmtreasurechest.com/soundtracks/toho-euro-trigger-vol06-nonstop-best-2020/thumbs/folder.jpg"
+            },
+            "TOHO EURO TRIGGER VOL.07": {
+                "url": "https://jetta.vgmtreasurechest.com/soundtracks/toho-euro-trigger-vol07-2020/thumbs/00%20Front.jpg"
+            },
+            "TOHO EURO TRIGGER VOL.08": {
+                "url": "https://jetta.vgmtreasurechest.com/soundtracks/toho-euro-trigger-vol08-2020/thumbs/00%20Front.jpg"
+            },
+            "TOHO EURO TRIGGER VOL.09": {
+                "url": "https://nu.vgmtreasurechest.com/soundtracks/toho-euro-trigger-vol09-2021/thumbs/folder.jpg"
+            },
+            "TOHO EURO TRIGGER VOL.10 Non-Stop BEST": {
+                "url": "https://nu.vgmtreasurechest.com/soundtracks/toho-euro-trigger-vol10-nonstop-best-2021/thumbs/folder.jpg"
+            },
+            "TOHO EURO TRIGGER VOL.11": {
+                "url": "https://jetta.vgmtreasurechest.com/soundtracks/toho-euro-trigger-vol11-2021/thumbs/00%20Front.jpg"
+            },
+            "TOHO EURO TRIGGER VOL.12": {
+                "url": "https://nu.vgmtreasurechest.com/soundtracks/toho-euro-trigger-vol12-2021/thumbs/folder.jpg"
+            },
+            "TOHO EURO TRIGGER VOL.13": {
+                "url": "https://jetta.vgmtreasurechest.com/soundtracks/toho-euro-trigger-vol13-2021/thumbs/folder.jpg"
+            },
+            "TOHO EURO TRIGGER VOL.14 NON-STOP BEST": {
+                "url": "https://jetta.vgmtreasurechest.com/soundtracks/toho-euro-trigger-vol14-nonstop-best-2022/thumbs/folder.jpg"
+            },
+            "TOHO EURO TRIGGER VOL.15": {
+                "url": "https://jetta.vgmtreasurechest.com/soundtracks/toho-euro-trigger-vol15-2022/thumbs/folder.jpg"
+            },
+            "TOHO EURO TRIGGER VOL.16": {
+                "url": "https://lambda.vgmtreasurechest.com/soundtracks/toho-euro-trigger-vol16-2022/thumbs/folder.jpg"
+            },
+            "TOHO EURO TRIGGER VOL.17 Non-Stop BEST": {
+                "url": "https://lambda.vgmtreasurechest.com/soundtracks/toho-euro-trigger-vol17-nonstop-best-2022/thumbs/folder.jpg"
+            },
+            "TOHO EURO TRIGGER VOL.18": {
+                "url": "https://lambda.vgmtreasurechest.com/soundtracks/toho-euro-trigger-vol18-2022/thumbs/00%20Front.jpg"
+            },
+            "TOHO EURO TRIGGER VOL.19": {
+                "url": "https://lambda.vgmtreasurechest.com/soundtracks/toho-euro-trigger-vol19-2023/thumbs/00%20Front.webp"
+            },
+            "TOHO EURO TRIGGER VOL.20": {
+                "url": "https://lambda.vgmtreasurechest.com/soundtracks/toho-euro-trigger-vol20-2023/thumbs/00%20Front.jpg"
+            },
+            "TOHO EURO TRIGGER VOL.21": {
+                "url": "https://nu.vgmtreasurechest.com/soundtracks/toho-euro-trigger-vol22-2023/thumbs/00%20Front.jpg"
+            },
+            "TOHO EURO TRIGGER VOL.22": {
+                "url": "https://lambda.vgmtreasurechest.com/soundtracks/toho-euro-trigger-vol-22-2023/thumbs/00%20Front%20digital.jpg"
+            }
+        }
+    }
 }

@@ -790,53 +790,70 @@
         }
     ],
     "items": {
+        "Album": {
+            "Highly Responsive to Prayers": {
+                "url": "https://jetta.vgmtreasurechest.com/soundtracks/akyu-s-untouched-score-vol.-5-touhou-reiiden-the-highly-responsive-to-prayers/thumbs/00%20Front.jpg"
+            },
+            "Story of Eastern Wonderland": {
+                "url": "https://nu.vgmtreasurechest.com/soundtracks/akyu-s-untouched-score-vol.-3-touhou-fuumaroku-the-story-of-eastern-wonderland/thumbs/00%20Front.jpg"
+            },
+            "Phantasmagoria of Dim. Dream": {
+                "url": "https://nu.vgmtreasurechest.com/soundtracks/akyu-s-untouched-score-vol.-4-touhou-yumejikuu-phantasmagoria-of-dim.dream/thumbs/00%20Front.jpg"
+            },
+            "Lotus Land Story": {
+                "url": "https://lambda.vgmtreasurechest.com/soundtracks/akyu-s-untouched-score-vol.-1-touhou-gensoukyou-lotus-land-story/thumbs/00%20Front.jpg"
+            },
+            "Mystic Square": {
+                "url": "https://nu.vgmtreasurechest.com/soundtracks/akyu-s-untouched-score-vol.-2-touhou-kaikidan-mystic-square/thumbs/00%20Front.jpg"
+            }
+        },
         "Characters": {
-            "Reimu Hakurei (PC-98)": [],
-            "SinGyoku": [],
-            "YuugenMagan": [],
-            "Mima": [],
-            "Elis": [],
-            "Kikuri": [],
-            "Sariel": [],
-            "Konngara": [],
-            "Rika": [],
-            "Meira": [],
-            "Five Magic Stones": [],
-            "Marisa Kirisame (PC-98)": [],
-            "Evil Eye Sigma": [],
-            "Ellen": [],
-            "Kotohime": [],
-            "Kana Anaberal": [],
-            "Rikako Asakura": [],
-            "Yumemi Okazaki": [],
-            "Chiyuri Kitashirakawa": [],
-            "Orange": [],
-            "Kurumi": [],
-            "Elly": [],
-            "Yuuka Kazami (PC-98)": [],
-            "Mugetsu": [],
-            "Gengetsu": [],
-            "Sara": [],
-            "Louise": [],
-            "Alice Margatroid (PC-98)": [],
-            "Yuki": [],
-            "Mai": [],
-            "Yumeko": [],
-            "Shinki": []
+            "Reimu Hakurei (PC-98)": {},
+            "SinGyoku": {},
+            "YuugenMagan": {},
+            "Mima": {},
+            "Elis": {},
+            "Kikuri": {},
+            "Sariel": {},
+            "Konngara": {},
+            "Rika": {},
+            "Meira": {},
+            "Five Magic Stones": {},
+            "Marisa Kirisame (PC-98)": {},
+            "Evil Eye Sigma": {},
+            "Ellen": {},
+            "Kotohime": {},
+            "Kana Anaberal": {},
+            "Rikako Asakura": {},
+            "Yumemi Okazaki": {},
+            "Chiyuri Kitashirakawa": {},
+            "Orange": {},
+            "Kurumi": {},
+            "Elly": {},
+            "Yuuka Kazami (PC-98)": {},
+            "Mugetsu": {},
+            "Gengetsu": {},
+            "Sara": {},
+            "Louise": {},
+            "Alice Margatroid (PC-98)": {},
+            "Yuki": {},
+            "Mai": {},
+            "Yumeko": {},
+            "Shinki": {}
         },
         "Extras and Endings": {
-            "SoEW Extra Stage Unlock": [],
-            "LLS Extra Stage Unlock": [],
-            "MS Extra Stage Unlock": [],
-            "HRtP Ending": [],
-            "SoEW Ending": [],
-            "PoDD Common Ending": [],
-            "PoDD Daytime Ending": [],
-            "PoDD Nighttime Ending": [],
-            "LLS Bad Ending": [],
-            "LLS Good Ending": [],
-            "MS Bad Ending": [],
-            "MS Good Ending": []
+            "SoEW Extra Stage Unlock": {},
+            "LLS Extra Stage Unlock": {},
+            "MS Extra Stage Unlock": {},
+            "HRtP Ending": {},
+            "SoEW Ending": {},
+            "PoDD Common Ending": {},
+            "PoDD Daytime Ending": {},
+            "PoDD Nighttime Ending": {},
+            "LLS Bad Ending": {},
+            "LLS Good Ending": {},
+            "MS Bad Ending": {},
+            "MS Good Ending": {}
         }
     }
 }

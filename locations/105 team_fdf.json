@@ -308,19 +308,30 @@
         }
     ],
     "items": {
+        "Album": {
+            "Touhou Makuka Sai ~ Fantastic Danmaku Festival Part I": {
+                "url": "https://nu.vgmtreasurechest.com/soundtracks/touhou-makuka-sai-fantastic-danmaku-festival-fdf-ost/thumbs/Front.jpg"
+            },
+            "Touhou Makuka Sai ~ Fantastic Danmaku Festival Part II": {
+                "url": "https://jetta.vgmtreasurechest.com/soundtracks/touhou-makuka-sai-fantastic-danmaku-festival-part-ii-ost-2019/thumbs/6f1a3a94d1e166dc272481bee91dbf0e176a6eaf.jpg"
+            },
+            "Touhou Makuka Sai ~ Fantastic Danmaku Festival Part III": {
+                "url": "https://jetta.vgmtreasurechest.com/soundtracks/touhou-makuka-sai-fantastic-danmaku-festival-part-iii-ost-2025/thumbs/8cb3002fd7d9bd64b06d3455756535d2dc1e7abc.jpg"
+            }
+        },
         "Characters": {
-            "Nix": [],
-            "God's Toy": [],
-            "Thanatos": [],
-            "Hypnos": []
+            "Nix": {},
+            "God's Toy": {},
+            "Thanatos": {},
+            "Hypnos": {}
         },
         "Extras and Endings": {
-            "FDF Part I Extra Stage Unlock": [],
-            "FDF Part II Extra Stage Unlock": [],
-            "FDF Part III Extra Stage Unlock": [],
-            "FDF Part I Ending": [],
-            "FDF Part II Ending": [],
-            "FDF Part III Ending": []
+            "FDF Part I Extra Stage Unlock": {},
+            "FDF Part II Extra Stage Unlock": {},
+            "FDF Part III Extra Stage Unlock": {},
+            "FDF Part I Ending": {},
+            "FDF Part II Ending": {},
+            "FDF Part III Ending": {}
         }
     }
 }
