@@ -21,6 +21,7 @@ file_to_regions = {}
 location_name_groups = {}
 
 item_id_offset = 0
+album_id_offset = 1
 item_name_to_id = {}
 item_to_classification = {}
 item_to_category = {}
@@ -50,21 +51,21 @@ for file in json_files:
     items = data['items']
     for cat, item_list in items.items():
         for item in item_list.keys():
-            item_name_to_id[item] = item_id_offset+(10000)
-            item_to_classification[item] = ItemClassification.progression
-            item_to_category[item] = cat
-            item_name_groups['Misc Prog'].append(item)
-            item_id_offset += 1
+            if cat == 'Album':
+                item_name_to_id[item] = album_id_offset
+                item_to_category[item] = "Album"
+                item_name_groups["Album"].append(item)
+                album_id_offset += 1
+            else:
+                item_name_to_id[item] = item_id_offset+(10000)
+                item_to_classification[item] = ItemClassification.progression
+                item_to_category[item] = cat
+                item_name_groups['Misc Prog'].append(item)
+                item_id_offset += 1
 
 single_filler_dir = 'items/single_filler.json'
 multi_filler_dir = 'items/multi_filler.json'
 
-
-
-for i, album in enumerate(regions_to_songs, 1):
-    item_name_to_id[album] = i
-    item_to_category[album] = "Album"
-    item_name_groups["Album"].append(album)
 
 data = json.loads(pkgutil.get_data(__name__, single_filler_dir).decode(encoding="utf-8"))
 for i, item in enumerate(data):

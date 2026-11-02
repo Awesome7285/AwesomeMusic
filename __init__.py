@@ -67,8 +67,9 @@ class AwesomeMusicWorld(World):
             item_pool += [self.create_item(item, ItemClassification.progression) for _ in range(int(num))]
 
         # Choose other filler
-        unused_prog = [item for item, id in self.item_name_to_id.items() if id < 2000 and item not in self.enabled_albums and item not in self.prog_items.keys()]
-        filler_items = single_filler_items + unused_prog
+        filler_items = [item for item in self.item_name_groups["Album"] if item not in self.enabled_albums]
+        filler_items.extend([item for item in self.item_name_groups["Misc Prog"] if item not in self.prog_items.keys()])
+        filler_items.extend(single_filler_items)
         self.multiworld.random.shuffle(filler_items)
         needed_filler = len(self.multiworld.get_unfilled_locations(player=self.player))
         i = 0
