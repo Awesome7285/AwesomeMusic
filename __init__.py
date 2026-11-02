@@ -91,7 +91,7 @@ class AwesomeMusicWorld(World):
     def fill_slot_data(self):
         slot_data: Dict[str, object] = {
             "starting_album": self.starting_album,
-            "enabled_groups": {group: f"{i} {group}" for group, i in file_to_index.items() if group in self.options.enabled_groups.value},
+            "enabled_groups": {group: f"{i} {group}" for group, i in file_to_index.items()}, # if group in self.options.enabled_groups.value
             "enabled_albums": self.enabled_albums,
             "misc_prog": self.prog_items,
             "goal_requirement": required_bounties(self.options, self),

@@ -7,7 +7,7 @@ class EnabledGroups(OptionSet):
     valid_keys = list(index_to_file.values())
     default = ["pc98", "mainline_games", "fighting_games", "spinoff_shmups", "zuns_music_collection", "print_works_cds"]
 
-groups = [f"'{i[3:-5]}'" for i in json_files]
+groups = [f"'{i[i.find(' ')+1:-5]}'" for i in json_files]
 EnabledGroups.__doc__ = 'Determines which Groups/Categories can have albums chosen from.\n\nValid Options:  \n' + "\n".join([", ".join(groups[i : i + 4]) for i in range(0, len(groups), 4)]) + '\nprint_works_cds on its own will not gen.'
 
 class ChooseAlbums(Choice):
